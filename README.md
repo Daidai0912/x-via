@@ -478,7 +478,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 <details>
   <summary> 展开 </summary>
 
-  * F搜
+  * F搜 `(时常假死)`
     ```
      https://fsoufsou.com/search?tbn=all&q=
     ```
@@ -488,7 +488,12 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
      https://www.wuzhuiso.com/s?q=
     ```
 
-  * 秘塔AI搜索
+  * SearXNG
+    ```
+    https://searx.si/search?q=
+    ```
+
+  * 秘塔 AI搜索
     ```
      https://metaso.cn/?q=
     ```
@@ -496,6 +501,11 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   * Perplexity AI搜索
     ```
      https://www.perplexity.ai/?q=
+    ```
+
+  * iAsk AI搜索
+    ```
+    https://iask.ai/?q=
     ```
 </details>
 
