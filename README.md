@@ -5,9 +5,9 @@
 ![碧蓝航线](https://shp.qpic.cn/collector/3042839226/c9061274-0e3d-4818-92ad-9362b4ca81a7/0)
 
 <details>
-  <summary>在此之前使用的 [QQ收藏] https://sharechain.qq.com/a5a372bae6710cac84a1554022378a57 已废弃</summary>
+  <summary>在此之前使用的[QQ收藏]已废弃</summary>
 
-  ##### [脚本整理,广告规则订阅,UA,搜索引擎(个人整理,有说明)](https://sharechain.qq.com/a5a372bae6710cac84a1554022378a57)
+  ##### [QQ收藏](https://sharechain.qq.com/a5a372bae6710cac84a1554022378a57)
 
   >1. [广告拦截 规则链接](https://sharechain.qq.com/e285d2e8a19bd1a23c83854cf2a2d635)
 
