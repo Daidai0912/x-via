@@ -174,7 +174,8 @@
 17.[YouTubo画质更改按钮(移动/桌面)](https://greasyfork.org/scripts/477219)
 
   - 在视频下方添加画质更改按钮,方便一键切换
- </details>
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
+</details>
 
 <details>
   <summary> 搜索功能 </summary>
@@ -207,6 +208,7 @@
   - 在屏幕左侧中心有较小的侧边栏,点击可展开
 
   - 不影响观感和操作,脚本内修改简单
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
 <details>
@@ -254,6 +256,7 @@
   - 把链接地址缩减至最短可用状态,并复制到剪切板
 
   - 在网页底部中间,有一个按钮,用来呼出面板
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
 <details>
@@ -293,6 +296,7 @@
   - 
 
   - 修改自[cccc-l佬](https://greasyfork.org/zh-CN/users/1243513-cccc-l)的 [123网盘自动填写提取码-关闭广告](https://greasyfork.org/zh-CN/scripts/484314)与[123网盘复制分享链接时带pwd=提取码](https://greasyfork.org/zh-CN/scripts/484313)
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
 <details>
@@ -313,6 +317,7 @@
 3.[123云盘去广告](https://greasyfork.org/zh-CN/scripts/489252)
 
   - 123网盘去广告,并将下载文件按钮移动到底部
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
 <details>
@@ -335,6 +340,7 @@
 3.[KISS Translator --- 亲吻翻译](https://greasyfork.org/scripts/472840)
 
   - 只有“显示原文(双显)”
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
 <details>
@@ -393,8 +399,21 @@
 <hr>
 
 9.[高级定制网页护眼模式](https://greasyfork.org/scripts/485513)
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
+<details>
+  <summary> 阅读模式 </summary>
+
+  `阅读小说,美化排版,懂得都懂`
+
+1.[通用阅读器](https://greasyfork.org/scripts/377230)
+<hr>
+
+2.[Circle阅读助手脚本版](https://greasyfork.org/scripts/440132)
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
+</details>
+ 
 <details>
   <summary> 可能会用到系列 </summary>
 
@@ -420,6 +439,7 @@
   - 以各种姿势爬取网站图片, 大小、尺寸等分类明确
 
   - 支持各种姿势批量下载, 搜图等.....
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
 ## UA
@@ -527,6 +547,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 > 
 > 他人使用 MT 管理器签名修改的版本也同样可不卸载安装
   - [123云盘(无密码)](https://www.123pan.com/s/YHGHjv-0RaC)
+  <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
   <details>
     <summary> 𝑉𝑖𝑎_图标包 </summary>
   
@@ -556,6 +577,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   - [Reex - Gitee下载地址](https://gitee.com/lntls/reex/releases)
 
   - [蓝奏云(密码：qazw)](https://www.lanzn.com/b01np165c)
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
 <details>
@@ -567,6 +589,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   > MX Player(MX播放器专业版）：已解锁付费。新版已支持所有手势功能，长按倍速、双击快进快退.... 解码强大，非常推荐。
 
   - [123云盘(无密码)](https://www.123pan.com/s/YHGHjv-bNJC.html)
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
 <details>
@@ -580,6 +603,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   - [Github开源地址](https://github.com/anilbeesetti/nextplayer/releases)
 
   > 如果你并不知道该使用 v7a 还是 v8a，请使用 universal 版本
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
 <details>
@@ -591,6 +615,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   > 不支持长按倍速，可双击两侧进行快进快退。纯纯一个使用 APP 调用的播放器, 软件本身没有界面, 打开就是播放视频 (上次调用的视频), 点击文件夹选择视频, 长按文件夹选择字幕。长按齿轮进入设置。该软件没有播放历史。
 
   - [Github开源地址](https://github.com/moneytoo/Player/releases)
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
 > [四个播放器下载](https://www.123pan.com/s/YHGHjv-yRaC)
