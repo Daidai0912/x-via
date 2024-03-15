@@ -536,6 +536,8 @@
 Mozilla/5.0 (Linux; Android 12; splash water mobile phone) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36 SearchCraft/2.8.2
 ```
 > 新版 - ChatSearch/1.0 SearchCraft/5.7.0.5
+>
+> 有AI回答
 ```
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 SearchCraft/3.10.1 ChatSearch/1.0 SearchCraft/5.7.0.5 (Baidu; P1 10)
 ```
