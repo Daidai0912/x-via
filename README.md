@@ -29,37 +29,28 @@
   个人推荐：`ABP Merge Rules`(或:`AdRules AdBlock List 精简版`) + `乘风 视频规则` + `去除APP下载提示` + `Ad-J`
 
   * [AdRules AdBlock List 精简版](https://bitbucket.org/hacamer/adrules/raw/main/adblock_lite.txt)
-  *(3w+丨在中国地区屏蔽广告的列表)*  <sup>[主页](https://github.com/Cats-Team/AdRules)</sup>
-
+  *(3w+丨在中国地区屏蔽广告的列表)*  <sup>[主页](https://github.com/Cats-Team/AdRules)
   * [AdRulesAdBlock List](https://bitbucket.org/hacamer/adrules/raw/main/adblock.txt)
-  *(16w+丨包含 '精简版'，在中国地区屏蔽广告的列表)*  <sup>[主页](https://github.com/Cats-Team/AdRules)</sup>
-
+  *(16w+丨包含 '精简版'，在中国地区屏蔽广告的列表)*  <sup>[主页](https://github.com/Cats-Team/AdRules)
   * [乘风广告规则](https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt)
-  *(1000+丨可能有点误杀....)*  <sup>[主页](https://github.com/xinggsf/Adblock-Plus-Rule)</sup>
-
+  *(1000+丨可能有点误杀....)*  <sup>[主页](https://github.com/xinggsf/Adblock-Plus-Rule)
   * [乘风视频规则](https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt)
-  *(200 丨如名, 专针对视频网站作出的规则)*  <sup>[主页](https://github.com/xinggsf/Adblock-Plus-Rule)</sup>
-
+  *(200 丨如名, 专针对视频网站作出的规则)*  <sup>[主页](https://github.com/xinggsf/Adblock-Plus-Rule)
   * [ABPMerge Rules](https://gitea.com/lemon399/AdRules/raw/branch/main/abpmerge.txt)
-  *(5w+丨广告拦截规则合并)*  <sup>[主页](https://github.com/damengzhu/abpmerge)</sup>
-
+  *(5w+丨广告拦截规则合并)*  <sup>[主页](https://github.com/damengzhu/abpmerge)
   * [去除 APP 下载提示](https://cdn.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt)
-  *(1000+丨去 APP 下载提示规则)*  <sup>[主页](https://github.com/Noyllopa/NoAppDownload)</sup>
-
+  *(1000+丨去 APP 下载提示规则)*  <sup>[主页](https://github.com/Noyllopa/NoAppDownload)
   * [Ad-J](https://gcore.jsdelivr.net/gh/jk278/Ad-J/Ad-J.txt)
-  *(300+丨 jk278 的自用移动端去广告规则, 常用网站精选)*  <sup>[主页](https://github.com/jk278/Ad-J/blob)</sup>
-
+  *(300+丨 jk278 的自用移动端去广告规则, 常用网站精选)*  <sup>[主页](https://github.com/jk278/Ad-J/blob)
 <div align="center">
   <p><sub> X浏览器导入方式 </sub></p>
-  <sup> 设置 » 广告拦截 » 规则文件 » (右上角) 导入 » 从网址导入 » (填写该链接后) 点击导入 </sup>
-</div>
+  <sup> 设置 » 广告拦截 » 规则文件 » (右上角) 导入 » 从网址导入 » (填写该链接后) 点击导入 </div>
 
   ![X 浏览器](http://shp.qpic.cn/collector/3042839226/e15a2b17-0eba-4870-8b65-942e0f335125/0)
 
 <div align="center">
   <p><sub> Via导入方式 </sub></p>
-  <sup> 设置 » 通用 » 广告拦截 » 规则订阅 » (右上角)+号 » (填写该链接后) 确定 » 勾选规则 » (右上角) 更新 </sup>
-</div>
+  <sup> 设置 » 通用 » 广告拦截 » 规则订阅 » (右上角)+号 » (填写该链接后) 确定 » 勾选规则 » (右上角) 更新 </div>
 
   ![Via](http://shp.qpic.cn/collector/3042839226/0203f0d3-1c28-46ea-bea4-ed2d7682958d/0)
 
@@ -74,151 +65,115 @@
 
 1.[屏幕边缘下拉刷新](https://greasyfork.org/scripts/462927)
 
-<sup>
-  
   - 脚本内可修改下拉距离
 
-  -  记得关闭𝗫浏览器自带的下拉刷新：手势设置中 
-</sup>
+  - 记得关闭𝗫浏览器自带的下拉刷新：手势设置中 
+<hr>
 
 2.𝐛𝐢𝐥𝐢𝐛𝐢𝐥𝐢不打开𝐀𝐏𝐏,网页直接看推荐内容 
 
-<sup> 
- 
   - [完全自动播放,但声音需要手动点击右下角音量开启](https://greasyfork.org/scripts/468246)
 
   - [只需要点击一次弹窗即可播放](https://greasyfork.org/scripts/454669)
 
   - [需要手动确认点击跳转,手动关闭弹窗等](https://greasyfork.org/scripts/458276)
-</sup>
+<hr>
 
 3.[CSDN直接复制](https://greasyfork.org/scripts/458601)
 
-<sup>
- 
  - 自动展开全部内容，免登录复制，去除广告，增加搜索框
-</sup>
+<hr>
 
 4.[移动端 百度系优化](https://greasyfork.org/scripts/418349)
-
-<sup>
 
   - 贴吧直接看评论.....等
 
   - 百度搜索“禁止自动播放视频”,去广告
-</sup>
+<hr>
 
 5.[东方永动机(支持𝟗𝟎%网站自动翻页,拼接下一页)](https://greasyfork.org/scripts/438684)
 
-<sup>
-
   - 安装脚本后请打开[配置文件](https://hoothin.github.io/UserScripts/Pagetual)设置(可能需要梯子)
-</sup>
+<hr>
 
 6.[在右侧增加滚动条](https://greasyfork.org/scripts/465037)
-
-<sup>
 
   - X 浏览器自带(无法关闭)
 
   - Via自带(通用>操作设定 关闭)
-</sup>
+<hr>
 
 7.[简繁自由切换](https://greasyfork.org/scripts/24300)
 
-<sup>
-
   - 自动将网页文字转换为 简体/繁体
 
-  - 在脚本主页安装脚本后刷新页面,设置页面就出现了 
-</sup>
+  - 安装脚本后刷新页面,设置页面就出现了 
+<hr>
 
 8.快捷回到顶部/底部 
 
-<sup>
-
   - [点击置顶(长按置底)](https://greasyfork.org/scripts/462920)
 
-  - 在页面最下方中心位置生成一个向上的箭头按钮(长按可回到底部)(有滑动动画效果)
+  - 在页面最下方中心位置生成一个向上的箭头按钮,长按可回到底部(有动画效果)
 
   - [滚动到顶部或底部按钮](https://greasyfork.org/scripts/461172)
 
-  - 在网页右下角(脚本内可修改位置)添加一个“顶部”的文字按钮
-  - 根据上滑下滑改变为“顶部”(红色按钮)与“底部”(蓝色按钮),(无动画,瞬间置顶)
-</sup>
+  - 在网页右下角(脚本内可修改位置)添加一个“顶部”的文字按钮,根据下滑改变为“顶部”(红色)与“底部”(蓝色),(无动画,瞬间置顶)
+<hr>
 
 9.[切换标题显示](https://greasyfork.org/scripts/480019)
-
-<sup>
 
   - 脚本菜单切换,可像𝑉𝑖𝑎一样在地址栏切换显示: 地址/域名/标题
 
   - Via自带,X浏览器使用 
-</sup>
+<hr>
 
 10.[网页加速器](https://www.youxiaohou.com/tool/install-instantpage.html)
 
-<sup>
-
   - 加速你打开链接的速度 
-</sup>
+<hr>
 
 11.记录页面位置 
-
-<sup>
 
   - [记录页面滚动](https://greasyfork.org/scripts/483745) 酷安[@耗子Sky](https://www.coolapk.com/u/1166187)
 
   - [我看到哪里啦?!](https://greasyfork.org/scripts/393042)
 
   - 让页面重新滚到上次阅读的位置 
-</sup>
+<hr>
 
 12.Github汉化 
-
-<sup>
 
   - [GitHub中文化插件](https://greasyfork.org/scripts/435208)(推荐)
 
   - [GitHub汉化插件](https://greasyfork.org/scripts/407485)
-</sup>
+<hr>
 
 13.[以图搜图](https://greasyfork.org/scripts/480713)
-
-<sup>
 
   - 工具栏打开“以图搜图”,然后直接点击图片即可
 
   - 𝑉𝑖𝑎自带,𝗫浏览器推荐用 
-</sup>
+<hr>
 
 14.[防止未经授权的自动复制](https://greasyfork.org/scripts/461625)
 
-<sup>
-
   - 只允许网页长按复制内容,防止一些毒瘤网站自动往剪贴板写入内容 
-</sup>
+<hr>
 
 15.[Mactype助手](https://greasyfork.org/scripts/436451)
 
-<sup>
-
-  - 可以让浏览器文字拥有媲美MacOS系统字体渲染效果，可以无缝调节网页上文字的粗细 
-</sup>
+  - 可以让浏览器文字拥有媲美MacOS系统字体渲染效果,可以无缝调节网页上文字的粗细 
+<hr>
 
 16.[空格之神](https://greasyfork.org/scripts/444252)
 
-<sup>
-
   - 当网页的内容为中英文混排的情况下,本脚本会在中英文之间插入一个空格!
-</sup>
+<hr>
 
 17.[YouTubo画质更改按钮(移动/桌面)](https://greasyfork.org/scripts/477219)
 
-<sup>
-
   - 在视频下方添加画质更改按钮,方便一键切换
-</sup>
  </details>
 
 <details>
@@ -228,39 +183,30 @@
 
 1.[聚合搜索引擎切换](https://greasyfork.org/scripts/462130)
 
-<sup>
-
-  - 在屏幕最上方有一排引擎供快捷切换,展开后支持快捷搜索其他网站(例如bilibili,视频网站等)
+  - 在屏幕最上方有一排引擎供快捷切换,展开后支持快捷搜索其他网站
 
   - 脚本内修改简单
-</sup>
+<hr>
 
 2.[all-search全搜,搜索引擎快捷跳转,支持任意网站展示](https://greasyfork.org/scripts/397993)
 
-<sup>
+  - 脚本是有完整的设置页面
 
-  - 脚本是有一个完整的设置页面(但我设置后没有效果,推荐尝试)
-
-  - 脚本非常好用,观感舒服,操作华丽,修改复杂
-</sup>
+  - 观感舒服,操作华丽,修改复杂
+<hr>
 
 3.[一键切换搜索](https://greasyfork.org/scripts/476606)
-
-<sup>
 
   - 在屏幕左侧中心偏上有较小的侧边栏
 
   - 不影响观感和操作,脚本内修改简单
-</sup>
+<hr>
 
 4.[搜索引擎切换器2(侧栏版)](https://greasyfork.org/zh-CN/scripts/489235)
-
-<sup>
 
   - 在屏幕左侧中心有较小的侧边栏,点击可展开
 
   - 不影响观感和操作,脚本内修改简单
-</sup>
 </details>
 
 <details>
@@ -270,41 +216,29 @@
 
 1.[External Link Auto Redirect(Direct Link) --- 外部链接自动重定向](https://greasyfork.org/zh-CN/scripts/462796)
 
-<sup>
-
   - 单击包含重定向URL的链接时,直接重定向到真实URL
 
-  - 通用规则,链接出现两个http则获得第二个
-</sup>
+  - 通用规则,无需自行添加
+<hr>
 
 2.[redirect外链跳转](https://greasyfork.org/scripts/416338)
 
-<sup>
-
-  - 酷安,贴吧啦,知乎等一系列的提示你跳转外部链接自动跳转
-
-  - 自动跳转,规则简单
-</sup>
+  - 酷安,贴吧,知乎一系列.的外部链接,自动跳转,规则简单
+<hr>
 
 3.[anti-redirect --- 反重定向](https://greasyfork.org/scripts/11915)
 
-<sup>
-
   - 去除各搜索引擎/常用网站的重定向
-</sup>
+<hr>
 
 4.[链接助手](https://greasyfork.org/scripts/464541)
-
-<sup>
 
   - 可对单个网站自定义链接规则在新标签页中打开
 
   - 文本链接转为超链接...等
-</sup>
+<hr>
 
 5.让网页中的文字链接变为可点击
-
-<sup>
 
   - [Linkify Plus Plus](https://greasyfork.org/scripts/4255)(推荐)
 
@@ -313,14 +247,13 @@
   - [Clickable text link](https://greasyfork.org/scripts/485489)
 
   - [测试链接是否可直接点击的网址](https://rawgit.com/eight04/linkify-plus-plus/master/demo/demo.html)
-</sup>
+<hr>
 
 6.[链接地址洗白白](https://greasyfork.org/scripts/373270)
 
-<sup>
+  - 把链接地址缩减至最短可用状态,并复制到剪切板
 
-  - 把链接地址缩减至最短可用状态,并复制到剪切板,以方便分享【在网页底部中间,有一个按钮,用来呼出面板】
-</sup>
+  - 在网页底部中间,有一个按钮,用来呼出面板
 </details>
 
 <details>
@@ -330,31 +263,25 @@
 
 1.[蓝奏云重定向+记住密码](https://greasyfork.org/zh-CN/scripts/488847)
 
-<sup>
-
   - 将所有蓝奏云链接重定向至同一蓝奏云网站
 
-  - 自动记住并填写过密码的蓝奏云链接,脚本菜单可查看或管理
+  - 自动记住并填写过密码的蓝奏云链接(脚本菜单可查看或管理)
 
   - 绕过下载APK提示"请先开通会员"
 
   - 建议搭配[蓝奏云自动点击下载](https://greasyfork.org/zh-CN/scripts/489281)
-</sup>
+<hr>
 
 2.蓝奏云之[大萌主](https://greasyfork.org/zh-CN/users/452911)
-
-<sup>
 
   - [记住蓝奏云密码](https://greasyfork.org/zh-CN/scripts/488865) \- 下次会自动填写
 
   - [手机直接下载蓝奏云apk文件](https://greasyfork.org/zh-CN/scripts/479566) \- 绕过下载APK提示"请先开通会员"
 
   - [蓝奏云自动点击下载](https://greasyfork.org/zh-CN/scripts/489281) \- 自动点击蓝奏云页面中的下载按钮
-</sup>
+<hr>
 
 3.[123盘自动填写提取码](https://greasyfork.org/zh-CN/scripts/489660)
-
-<sup>
 
   - 自动提取123云盘分享链接的提取码,并进行填写
 
@@ -363,9 +290,9 @@
   - [https://www.123pan.com/s/YHGHjv-bUJC密码rAj2](https://www.123pan.com/s/YHGHjv-bUJC密码rAj2)
 
   - https://www.123pan.com/s/YHGHjv-bUJC?pwd=rAj2
+  - 
 
-  - 改编自[cccc-l佬](https://greasyfork.org/zh-CN/users/1243513-cccc-l)的[123网盘自动填写提取码-关闭广告](https://greasyfork.org/zh-CN/scripts/484314)与[123网盘复制分享链接时带pwd=提取码](https://greasyfork.org/zh-CN/scripts/484313)
-</sup>
+  - 修改自[cccc-l佬](https://greasyfork.org/zh-CN/users/1243513-cccc-l)的 [123网盘自动填写提取码-关闭广告](https://greasyfork.org/zh-CN/scripts/484314)与[123网盘复制分享链接时带pwd=提取码](https://greasyfork.org/zh-CN/scripts/484313)
 </details>
 
 <details>
@@ -375,24 +302,17 @@
 
 1.[搜索引擎去广告](https://greasyfork.org/scripts/437351)
 
-<sup>
-
-  - 谷歌百度搜狗神马必应头条搜索去广告，适配电脑和手机，没去夸克，神马搜索就是夸克搜索，谷歌搜索拦截部分内容广场
-</sup>
+  - 谷歌百度搜狗神马必应头条搜索去广告
+<hr>
 
 2.[YouTube去广告](https://greasyfork.org/scripts/459541)
 
-<sup>
-
   - 这是一个去除YouTube广告的脚本，轻量且高效，它能丝滑的去除界面广告和视频广告，包括6s广告。
-</sup>
+<hr>
 
 3.[123云盘去广告](https://greasyfork.org/zh-CN/scripts/489252)
 
-<sup>
-
   - 123网盘去广告,并将下载文件按钮移动到底部
-</sup>
 </details>
 
 <details>
@@ -402,26 +322,19 @@
 
 1.[Immersive-translate --- 沉浸式翻译](https://download.immersivetranslate.com/immersive-translate.user.js)(商业化,不开源)
 
-<sup>
-
-  - 拥有“显示原文(双显)”和“隐藏原文(仅显示译文)”两种样式
+  - 可“显示原文(双显)”和“隐藏原文(仅显示译文)”
 
   - [历史版本](https://github.com/immersive-translate/immersive-translate/releases)
-</sup>
+<hr>
 
 2.[网页中英双显互译(其他语言也可以翻译)](https://greasyfork.org/scripts/469073)(推荐,开源)
 
-<sup>
-
-  - 拥有“显示原文(双显)”和“隐藏原文(仅显示译文)”两种样式
-</sup>
+  - 可“显示原文(双显)”和“隐藏原文(仅显示译文)”
+<hr>
 
 3.[KISS Translator --- 亲吻翻译](https://greasyfork.org/scripts/472840)
 
-<sup>
-
-  - 只有“显示原文(双显)”一种样式
-</sup>
+  - 只有“显示原文(双显)”
 </details>
 
 <details>
@@ -431,47 +344,39 @@
 
 1.[护眼模式](https://greasyfork.org/scripts/460539)
 
-<sup>
-
   - 更改页面背景颜色
 
   - 需要更改为其他颜色请在脚本内找出“#C7EDCC”并修改
-</sup>
+<hr>
 
 2.点击页面特效
-
-<sup>
 
   - [点击时显示文字(可自定义文字)](https://greasyfork.org/scripts/371892)
 
   - [点击时显示爱心特效](https://greasyfork.org/scripts/482951)
 
   - [点击时显示波纹特效(可更改大小,颜色,数量)](https://greasyfork.org/scripts/482952)
-</sup>
+<hr>
 
 3.[滑动时显示星星特效拖尾](https://greasyfork.org/scripts/454845)
+<hr>
 
 4.[网页全屏飘落樱花特效](https://greasyfork.org/scripts/420792)
+<hr>
 
 5.[网页页面样式美化](https://greasyfork.org/zh-CN/scripts/489386)
-
-<sup>
 
   - 指向文字加粗, 指向图片发光, 指向图片放大动画, 输入框美化...等
 
   - 原脚本：[全局页面样式美化](https://greasyfork.org/zh-CN/scripts/423663)
-</sup>
+<hr>
 
 6.[网页看板娘](https://greasyfork.org/scripts/483088)
 
-<sup>
-
   - 在网页左下角添加一个二次元板娘,部分参数脚本内可改
-</sup>
+<hr>
 
 7.美化Greasyfork
-
-<sup>
 
   - [Greasyfork Beautify](https://greasyfork.org/scripts/446849)
 
@@ -480,14 +385,12 @@
   - [Greasy Fork Theme Engine \[BETA\]](https://greasyfork.org/scripts/476333)
 
   - 时尚的 GeasyFork 重新设计
-</sup>
+<hr>
 
 8.[Google Card-Style UI --- Google Card 样式的界面](https://greasyfork.org/scripts/18510)
 
-<sup>
-
   - 优化 Google 搜索引擎的 UI
-</sup>
+<hr>
 
 9.[高级定制网页护眼模式](https://greasyfork.org/scripts/485513)
 </details>
@@ -498,31 +401,25 @@
   `可能会用到，但很少有'用武之地'`
 
 1.[网页调试](https://greasyfork.org/scripts/475228)
+<hr>
 
 2.[手机浏览器触摸手势](https://greasyfork.org/scripts/375806)
 
-<sup>
-
-  - 支持在文字、图片、视频上分类, 通过你的“滑动手势”进行“执行代码”或“搜图”, 可自定义
-</sup>
+  - 支持在文字、图片、视频上分类,通过你的“滑动手势”进行“执行代码”或“搜图”,可自定义
+<hr>
 
 3.[俺的手机视频脚本](https://greasyfork.org/scripts/456542)
 
-<sup>
-
   - 长按视频倍速播放
 
-  - 需要更全的播放器手势？嗅探媒体资源然后调用播放器吧(查看下方播放器分类)
-</sup>
+  - 需要更全的播放器手势？嗅探媒体资源然后调用播放器(查看下方播放器分类)
+<hr>
 
 4.[Picviewer CE+ --- 图片查看器 CE+](https://greasyfork.org/scripts/24204)
-
-<sup>
 
   - 以各种姿势爬取网站图片, 大小、尺寸等分类明确
 
   - 支持各种姿势批量下载, 搜图等.....
-</sup>
 </details>
 
 ## UA
@@ -541,11 +438,15 @@ Mozilla/5.0 (Linux; Android 12; splash water mobile phone) AppleWebKit/537.36 (K
 ```
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 SearchCraft/3.10.1 ChatSearch/1.0 SearchCraft/5.7.0.5 (Baidu; P1 10)
 ```
+<hr>
+
 * 无追：简单搜索
 `去除无追搜索的广告`
 ```
 Mozilla/5.0 (Linux; Android 11 ) AppleWebKit/537.36 (KHTML, like Gecko) Mobile WuZhui/1.6.0
 ```
+<hr>
+
 * 简单搜索 + 塞班
 `去除百度搜索的自动播放、部分其他网站广告`
 ```
@@ -583,8 +484,6 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 <details>
   <summary> 𝗫浏览器 </summary>
 
-<sup>
-
 - 蓝奏云有文件说明,123云盘不能添加说明
   
 - 去除白名单限制
@@ -592,7 +491,6 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 - 和原版共存, 不影响原版
 
 - 修改图标(下图)
-</sup>
 
 ![X浏览器](http://shp.qpic.cn/collector/3042839226/08bbb56a-354c-46f2-b3fc-4e920c80950e/0)
 
@@ -605,8 +503,6 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 <details>
   <summary> 𝑉𝑖𝑎 </summary>
 
-<sup>
-
 - 蓝奏云有文件说明,123云盘不能添加说明
   
 - 去除白名单限制
@@ -614,7 +510,6 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 - 和原版共存, 不影响原版(123云盘保留了原版包名,详看下文)
 
 - 修改图标(下图)
-</sup>
 
 ![Via](http://shp.qpic.cn/collector/3042839226/38a21a30-33ed-477b-b136-1a99c5ac2800/0)
 
