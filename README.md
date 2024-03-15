@@ -1,8 +1,8 @@
 # X 浏览器、Via 丨辅助介绍
 
-这里收集了一些[**X浏览器**](https://www.xbext.com/)与[**Via**](https://viayoo.com/)可用的脚本,广告规则订阅,UA,搜索引擎 
+这里收集了一些[**X浏览器**](https://www.xbext.com/)与[**Via**](https://viayoo.com/)可能会用到的
 
-![碧蓝航线](https://shp.qpic.cn/collector/3042839226/c9061274-0e3d-4818-92ad-9362b4ca81a7/0)
+![](https://moe-counter.glitch.me/get/@daidai0912?theme=rule34)
 
 <details>
   <summary>在此之前使用的[QQ收藏]已废弃</summary>
