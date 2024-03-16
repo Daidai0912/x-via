@@ -6,6 +6,8 @@
 
 ![](https://moe-counter.glitch.me/get/@daidai0912?theme=rule34)
 
+![](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/呆呆.svg)
+
 </div>
 <details>
   <summary>在此之前使用的[QQ收藏]已废弃</summary>
