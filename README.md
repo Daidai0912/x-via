@@ -350,6 +350,8 @@
 4.[网页翻译](https://greasyfork.org/zh-CN/scripts/398746)
 
   - 给每个非中文的网页右下角（可以调整到左下角）添加一个 google 翻译图标, 直接调用 Google 的翻译接口对非中文网页进行翻译
+
+  - 需要外网环境
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
