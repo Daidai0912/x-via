@@ -77,7 +77,7 @@
 
 2.𝐛𝐢𝐥𝐢𝐛𝐢𝐥𝐢不打开𝐀𝐏𝐏,网页直接看推荐内容 
 
-  - [完全自动播放,但声音需要手动点击右下角音量开启](https://greasyfork.org/scripts/468246)
+  - [完全自动播放,但声音需要手动点击右下角音量开启](https://greasyfork.org/scripts/468246)(推荐)
 
   - [只需要点击一次弹窗即可播放](https://greasyfork.org/scripts/454669)
 
@@ -187,7 +187,7 @@
 
    `在各大搜索引擎顶部展示快捷其他搜索引擎, 快捷切换`
 
-1.[聚合搜索引擎切换](https://greasyfork.org/scripts/462130)
+1.[聚合搜索引擎切换](https://greasyfork.org/scripts/462130)(推荐)
 
   - 在屏幕最上方有一排引擎供快捷切换,展开后支持快捷搜索其他网站
 
@@ -225,7 +225,7 @@
 
   - 单击包含重定向URL的链接时,直接重定向到真实URL
 
-  - 通用规则,无需自行添加
+  - 通用规则,无需自行添加(但有小部分按钮误杀,点击无效果)
 <hr>
 
 2.[redirect外链跳转](https://greasyfork.org/scripts/416338)
@@ -387,8 +387,6 @@
 5.[网页页面样式美化](https://greasyfork.org/zh-CN/scripts/489386)
 
   - 指向文字加粗, 指向图片发光, 指向图片放大动画, 输入框美化...等
-
-  - 原脚本：[全局页面样式美化](https://greasyfork.org/zh-CN/scripts/423663)
 <hr>
 
 6.[网页看板娘](https://greasyfork.org/scripts/483088)
