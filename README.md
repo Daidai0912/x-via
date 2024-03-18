@@ -328,7 +328,7 @@
 <details>
   <summary> 翻译脚本 </summary>
 
-  `翻译网页内容的脚本，均可在github上运行`
+  `翻译网页内容的脚本，除第4个,其他均可在Github上运行`
 
 1.[Immersive-translate --- 沉浸式翻译](https://download.immersivetranslate.com/immersive-translate.user.js)(商业化,不开源)
 
@@ -345,6 +345,11 @@
 3.[KISS Translator --- 亲吻翻译](https://greasyfork.org/scripts/472840)
 
   - 只有“显示原文(双显)”
+<hr>
+
+4.[网页翻译](https://greasyfork.org/zh-CN/scripts/398746)
+
+  - 给每个非中文的网页右下角（可以调整到左下角）添加一个 google 翻译图标, 直接调用 Google 的翻译接口对非中文网页进行翻译
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
