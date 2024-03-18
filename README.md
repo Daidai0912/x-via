@@ -251,8 +251,6 @@
 
   - [Text To link](https://mirror.ghproxy.com/https://raw.githubusercontent.com/lkytal/GM/master/linkMix.user.js)
 
-  - [Clickable text link](https://greasyfork.org/scripts/485489)
-
   - [测试链接是否可直接点击的网址](https://rawgit.com/eight04/linkify-plus-plus/master/demo/demo.html)
 <hr>
 
