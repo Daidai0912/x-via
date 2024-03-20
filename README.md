@@ -275,17 +275,15 @@
 
   - 绕过下载APK提示"请先开通会员"
 
-  - 建议搭配[蓝奏云自动点击下载](https://greasyfork.org/zh-CN/scripts/489281)
-<hr>
+  - 自动下载文件
 
-2.蓝奏云之[大萌主](https://greasyfork.org/zh-CN/users/452911)
+---
 
-  - [记住蓝奏云密码](https://greasyfork.org/zh-CN/scripts/488865) \- 下次会自动填写
+2.[蓝奏云自动点击下载，直接下载 apk 文件，记住分享密码自动填写](https://greasyfork.org/zh-CN/scripts/489281)
 
-  - [手机直接下载蓝奏云apk文件](https://greasyfork.org/zh-CN/scripts/479566) \- 绕过下载APK提示"请先开通会员"
+  - 如名，与[蓝奏云重定向+记住密码](https://greasyfork.org/zh-CN/scripts/488847)择其一即可
 
-  - [蓝奏云自动点击下载](https://greasyfork.org/zh-CN/scripts/489281) \- 自动点击蓝奏云页面中的下载按钮
-<hr>
+---
 
 3.[123盘自动填写提取码](https://greasyfork.org/zh-CN/scripts/489660)
 
