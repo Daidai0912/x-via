@@ -6,9 +6,13 @@
 
 ![](https://moe-counter.glitch.me/get/@daidai0912?theme=rule34)
 
-![](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/呆呆.svg)
+![贪吃蛇](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/呆呆.svg)
 
 </div>
+
+[lanzou]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/lanzou.png
+[123pan]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/123.png
+
 <details>
   <summary>在此之前使用的[QQ收藏]已废弃</summary>
 
@@ -77,7 +81,7 @@
 
 2.𝐛𝐢𝐥𝐢𝐛𝐢𝐥𝐢不打开𝐀𝐏𝐏,网页直接看推荐内容 
 
-  - [完全自动播放,但声音需要手动点击右下角音量开启](https://greasyfork.org/scripts/468246)(推荐)
+  - [完全自动播放,但声音需要手动点击右下角音量开启](https://greasyfork.org/scripts/468246)`推荐`
 
   - [只需要点击一次弹窗即可播放](https://greasyfork.org/scripts/454669)
 
@@ -103,9 +107,9 @@
 
 6.[在右侧增加滚动条](https://greasyfork.org/scripts/465037)
 
-  - X 浏览器自带(无法关闭)
+  - X 浏览器自带`无法关闭`
 
-  - Via自带(通用>操作设定 关闭)
+  - Via自带`通用>操作设定 关闭`
 <hr>
 
 7.[简繁自由切换](https://greasyfork.org/scripts/24300)
@@ -149,7 +153,7 @@
 
 12.Github汉化 
 
-  - [GitHub中文化插件](https://greasyfork.org/scripts/435208)(推荐)
+  - [GitHub中文化插件](https://greasyfork.org/scripts/435208)`推荐`
 
   - [GitHub汉化插件](https://greasyfork.org/scripts/407485)
 <hr>
@@ -187,7 +191,7 @@
 
    `在各大搜索引擎顶部展示快捷其他搜索引擎, 快捷切换`
 
-1.[聚合搜索引擎切换](https://greasyfork.org/scripts/462130)(推荐)
+1.[聚合搜索引擎切换](https://greasyfork.org/scripts/462130)`推荐`
 
   - 在屏幕最上方有一排引擎供快捷切换,展开后支持快捷搜索其他网站
 
@@ -247,7 +251,7 @@
 
 5.让网页中的文字链接变为可点击
 
-  - [Linkify Plus Plus](https://greasyfork.org/scripts/4255)(推荐)
+  - [Linkify Plus Plus](https://greasyfork.org/scripts/4255)`推荐`
 
   - [Text To link](https://mirror.ghproxy.com/https://raw.githubusercontent.com/lkytal/GM/master/linkMix.user.js)
 
@@ -290,11 +294,8 @@
   - 自动提取123云盘分享链接的提取码,并进行填写
 
   - 测试链接：
-
-  - [https://www.123pan.com/s/YHGHjv-bUJC密码rAj2](https://www.123pan.com/s/YHGHjv-bUJC密码rAj2)
-
-  - https://www.123pan.com/s/YHGHjv-bUJC?pwd=rAj2
-  - 
+    - [https://www.123pan.com/s/YHGHjv-bUJC密码rAj2](https://www.123pan.com/s/YHGHjv-bUJC密码rAj2)
+    - https://www.123pan.com/s/YHGHjv-bUJC?pwd=rAj2
 
   - 修改自[cccc-l佬](https://greasyfork.org/zh-CN/users/1243513-cccc-l)的 [123网盘自动填写提取码-关闭广告](https://greasyfork.org/zh-CN/scripts/484314)与[123网盘复制分享链接时带pwd=提取码](https://greasyfork.org/zh-CN/scripts/484313)
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
@@ -326,14 +327,14 @@
 
   `翻译网页内容的脚本，除第4个与第5个,其他均可在Github上运行`
 
-1.[Immersive-translate --- 沉浸式翻译](https://download.immersivetranslate.com/immersive-translate.user.js)(商业化,不开源)
+1.[Immersive-translate --- 沉浸式翻译](https://download.immersivetranslate.com/immersive-translate.user.js)`商业化,不开源`
 
   - 可“显示原文(双显)”和“隐藏原文(仅显示译文)”
 
   - [历史版本](https://github.com/immersive-translate/immersive-translate/releases)
 <hr>
 
-2.[网页中英双显互译(其他语言也可以翻译)](https://greasyfork.org/scripts/469073)(推荐,开源)
+2.[网页中英双显互译(其他语言也可以翻译)](https://greasyfork.org/scripts/469073)`推荐,开源`
 
   - 可“显示原文(双显)”和“隐藏原文(仅显示译文)”
 <hr>
@@ -343,13 +344,13 @@
   - 只有“显示原文(双显)”
 <hr>
 
-4.[网页翻译](https://greasyfork.org/zh-CN/scripts/398746)
+4.[网页翻译](https://greasyfork.org/zh-CN/scripts/398746)`不可在Gayhub等网站运行`
 
   - 给每个非中文的网页右下角（可以调整到左下角）添加一个 google 翻译图标, 直接调用 Google 的翻译接口对非中文网页进行翻译
 
   - 需要外网环境
 
-5.[YanDex翻译](https://greasyfork.org/zh-CN/scripts/490152)
+5.[YanDex翻译](https://greasyfork.org/zh-CN/scripts/490152)`不可在Gayhub等网站运行`
 
   - 使用 Yandex Translate API 对网页进行翻译
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
@@ -395,12 +396,10 @@
 7.美化Greasyfork
 
   - [Greasyfork Beautify](https://greasyfork.org/scripts/446849)
-
-  - 优化导航栏样式/脚本列表改为卡片布局/代码高亮(atom-one-dark+vscode风格)等...
+    - 优化导航栏样式/脚本列表改为卡片布局/代码高亮(atom-one-dark+vscode风格)等...
 
   - [Greasy Fork Theme Engine \[BETA\]](https://greasyfork.org/scripts/476333)
-
-  - 时尚的 GeasyFork 重新设计
+    - 时尚的 GeasyFork 重新设计
 <hr>
 
 8.[Google Card-Style UI --- Google Card 样式的界面](https://greasyfork.org/scripts/18510)
@@ -535,9 +534,10 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 ![X浏览器](http://shp.qpic.cn/collector/3042839226/08bbb56a-354c-46f2-b3fc-4e920c80950e/0)
 
 * 𝗫浏览器去限制-共存
-  - [蓝奏云(密码：12)](https://www.lanzn.com/b01rkkbpa)
- 
-  - [123云盘(无密码)](https://www.123pan.com/s/YHGHjv-2XaC)
+
+| 蓝奏云<sub>`密码：12`</sub> | 123盘 |
+| :---: | :---: |
+| [![蓝奏云(密码：12)][lanzou]](https://www.lanzn.com/b01rkkbpa) | [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-2XaC) |
 </details>
 
 <details>
@@ -554,9 +554,10 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 ![Via](http://shp.qpic.cn/collector/3042839226/38a21a30-33ed-477b-b136-1a99c5ac2800/0)
 
 * 𝑉𝑖𝑎去限制-共存
-  - [蓝奏云(密码：12)](https://www.lanzn.com/b01rcpjvg)
- 
-  - [123云盘(无密码)](https://www.123pan.com/s/YHGHjv-XXaC)
+
+| 蓝奏云<sub>`密码：12`</sub> | 123盘 |
+| :---: | :---: |
+[![蓝奏云(密码：12)][lanzou]](https://www.lanzn.com/b01rcpjv) | [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-XXaC) |
 * 𝑉𝑖𝑎去限制-原包名
 
 > 因修改包名 (与原版共存不得不修改) 而导致𝑉𝑖𝑎在桌面长按图标的功能会提示“未安装该应用”
@@ -566,7 +567,11 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 > 使用 MT 管理器 V1 + V2 的签名, 后续可自己使用 MT 管理器修改原版安装包任意内容以达到不卸载更新
 > 
 > 他人使用 MT 管理器签名修改的版本也同样可不卸载安装
-  - [123云盘(无密码)](https://www.123pan.com/s/YHGHjv-0RaC)
+
+| 123盘 |
+| :---: |
+| [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-0RaC) |
+
   <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
   <details>
     <summary> 𝑉𝑖𝑎_图标包 </summary>
@@ -579,9 +584,9 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   <img alt="Via图标包" src="http://shp.qpic.cn/collector/3042839226/5ca30d34-426b-48ea-8df6-be092d45829d/0">
 </picture>
 
-  - [蓝奏云(密码：12)](https://www.lanzn.com/b01rgnvgf)
-
-  - [123云盘(无密码)](https://www.123pan.com/s/YHGHjv-u1aC)
+| 蓝奏云<sub>`密码：12`</sub> | 123盘 |
+| :---: | :---: |
+[![蓝奏云(密码：12)][lanzou]](https://www.lanzn.com/b01rgnvgf) | [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-u1aC) |
   </details>
 
 </details>
@@ -596,7 +601,10 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   > 长按倍速, 双击两侧快进, 双击中心暂停。支持长按倍速、快进秒数设置。支持关闭单个手势。拥有播放历史, 支持挂载 WebDav
   - [Reex - Gitee下载地址](https://gitee.com/lntls/reex/releases)
 
-  - [蓝奏云(密码：qazw)](https://www.lanzn.com/b01np165c)
+| 蓝奏云<sub>`密码：qazw`</sub> |
+| :---: |
+| [![蓝奏云(密码：qazw)][lanzou]](https://www.lanzn.com/b01np165c) |
+
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
@@ -608,7 +616,10 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 
   > MX Player(MX播放器专业版）：已解锁付费。新版已支持所有手势功能，长按倍速、双击快进快退.... 解码强大，非常推荐。
 
-  - [123云盘(无密码)](https://www.123pan.com/s/YHGHjv-bNJC.html)
+| 123盘 |
+| :---: |
+| [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-bNJC.html) |
+
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
