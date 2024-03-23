@@ -518,10 +518,14 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     ```
 </details>
 
-### 自用：𝗫浏览器 & 𝑉𝑖𝑎 去限制
+### 悄悄话
 
 <details>
-  <summary> 𝗫浏览器 </summary>
+  <summary> 展开 </summary>
+  
+  `自用,若用于其他用途自行承担责任`
+<details>
+  <summary> 𝗫浏览器 - 去白名单 </summary>
 
 - 蓝奏云有文件说明,123云盘不能添加说明
   
@@ -541,7 +545,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 </details>
 
 <details>
-  <summary> 𝑉𝑖𝑎 </summary>
+  <summary> 𝑉𝑖𝑎 - 去白名单 </summary>
 
 - 蓝奏云有文件说明,123云盘不能添加说明
   
@@ -589,6 +593,20 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 [![蓝奏云(密码：12)][lanzou]](https://www.lanzn.com/b01rgnvgf) | [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-u1aC) |
   </details>
 
+</details>
+<details>
+  <summary> 雨见/可拓·Xiu/嗅觉 - 去白名单 </summary>
+
+  - 注：并不共存,你可以：
+    - [NP管理器(3.0.62)以下版本]进行APK共存(3.0.62以上有广告、收费。3.0.62记得关闭网络权限)
+    - [MT管理器(需要会员)]进行APK共存
+    - [Apktool M(免费)]的快速编辑进行修改包名
+
+| 蓝奏云<sub>`密码：12`</sub> | 123盘 |
+| :---: | :---: |
+[![蓝奏云(密码：12)][lanzou]](https://zhizhangyi.lanzout.com/b01s59nif) | [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-9qJC.html) |
+
+</details>
 </details>
 
 ## 视频播放器
