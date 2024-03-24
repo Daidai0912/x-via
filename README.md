@@ -4,14 +4,17 @@
 
 这里收集了一些[**X浏览器**](https://www.xbext.com/)与[**Via**](https://viayoo.com/)可能会用到的
 
+<!-- -->
 ![](https://moe-counter.glitch.me/get/@daidai0912?theme=rule34)
 
-![贪吃蛇](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/呆呆.svg)
-
+![打字机](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/呆呆.svg)
+<!-- -->
 </div>
 
 [lanzou]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/lanzou.png
 [123pan]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/123.png
+[github]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/github.png
+[gitee]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/gitee.png
 
 <details>
   <summary>在此之前使用的[QQ收藏]已废弃</summary>
@@ -617,11 +620,10 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   ![Reex](https://shp.qpic.cn/collector/3042839226/887fffff-3671-432a-b754-6db87d9ff5b7/0)
 
   > 长按倍速, 双击两侧快进, 双击中心暂停。支持长按倍速、快进秒数设置。支持关闭单个手势。拥有播放历史, 支持挂载 WebDav
-  - [Reex - Gitee下载地址](https://gitee.com/lntls/reex/releases)
 
-| 蓝奏云<sub>`密码：qazw`</sub> |
-| :---: |
-| [![蓝奏云(密码：qazw)][lanzou]](https://www.lanzn.com/b01np165c) |
+| 蓝奏云<sub>`密码：qazw`</sub> | Gitee |
+| :---: | :---: |
+| [![蓝奏云(密码：qazw)][lanzou]](https://www.lanzn.com/b01np165c) | [![Reex - Gitee下载地址][gitee]](https://gitee.com/lntls/reex/releases)
 
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
@@ -649,7 +651,9 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 
   > 与 Reex 大致相同，手势全部支持，但不支持mpv语法，不支持挂载WebDav
 
-  - [Github开源地址](https://github.com/anilbeesetti/nextplayer/releases)
+| Github开源地址 |
+| :---: |
+| [![Github开源地址][github]](https://github.com/anilbeesetti/nextplayer/releases) |
 
   > 如果你并不知道该使用 v7a 还是 v8a，请使用 universal 版本
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
@@ -663,7 +667,9 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 
   > 不支持长按倍速，可双击两侧进行快进快退。纯纯一个使用 APP 调用的播放器, 软件本身没有界面, 打开就是播放视频 (上次调用的视频), 点击文件夹选择视频, 长按文件夹选择字幕。长按齿轮进入设置。该软件没有播放历史。
 
-  - [Github开源地址](https://github.com/moneytoo/Player/releases)
+| Github开源地址 |
+| :---: |
+| [![Github开源地址][github]](https://github.com/moneytoo/Player/releases) |
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
