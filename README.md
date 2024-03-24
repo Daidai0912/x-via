@@ -58,13 +58,13 @@
   <p><sub> X浏览器导入方式 </sub></p>
   <sup> 设置 » 广告拦截 » 规则文件 » (右上角) 导入 » 从网址导入 » (填写该链接后) 点击导入 </div>
 
-  ![X 浏览器](http://shp.qpic.cn/collector/3042839226/e15a2b17-0eba-4870-8b65-942e0f335125/0)
+  ![X 浏览器](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/X浏览器规则文件_压缩.webp)
 
 <div align="center">
   <p><sub> Via导入方式 </sub></p>
   <sup> 设置 » 通用 » 广告拦截 » 规则订阅 » (右上角)+号 » (填写该链接后) 确定 » 勾选规则 » (右上角) 更新 </div>
 
-  ![Via](http://shp.qpic.cn/collector/3042839226/0203f0d3-1c28-46ea-bea4-ed2d7682958d/0)
+  ![Via](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/via规则订阅_压缩.webp)
 
 </details>
 
@@ -617,7 +617,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   <summary> Reex </summary>
   <br>
   
-  ![Reex](https://shp.qpic.cn/collector/3042839226/887fffff-3671-432a-b754-6db87d9ff5b7/0)
+  ![Reex](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/reex.jpg)
 
   > 长按倍速, 双击两侧快进, 双击中心暂停。支持长按倍速、快进秒数设置。支持关闭单个手势。拥有播放历史, 支持挂载 WebDav
 
@@ -632,7 +632,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   <summary> MX Player </summary>
   <br>
   
-  ![MX](https://shp.qpic.cn/collector/3042839226/fbf73830-aae5-4809-a73c-ff01f0d7e525/0)
+  ![MX](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/mx%20player.jpg)
 
   > MX Player(MX播放器专业版）：已解锁付费。新版已支持所有手势功能，长按倍速、双击快进快退.... 解码强大，非常推荐。
 
@@ -647,7 +647,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   <summary> Next Player </summary>
   <br>
   
-  ![Next Player](https://shp.qpic.cn/collector/3042839226/89325c88-ad7c-48d3-b58d-0686048ae840/0)
+  ![Next Player](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/next%20player.jpg)
 
   > 与 Reex 大致相同，手势全部支持，但不支持mpv语法，不支持挂载WebDav
 
@@ -664,7 +664,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   <summary> Just Player </summary>
   <br>
   
-  ![Just Player](https://shp.qpic.cn/collector/3042839226/5b8d0ed5-a127-47a1-84eb-f6b8406cd8a0/0)
+  ![Just Player](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/just%20player.jpg)
 
   > 不支持长按倍速，可双击两侧进行快进快退。纯纯一个使用 APP 调用的播放器, 软件本身没有界面, 打开就是播放视频 (上次调用的视频), 点击文件夹选择视频, 长按文件夹选择字幕。长按齿轮进入设置。该软件没有播放历史。
 
