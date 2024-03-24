@@ -13,7 +13,7 @@
 
 [lanzou]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/lanzou.png
 [123pan]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/123.png
-[github]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/github.png
+[github]: Daidai0912/Dai_dai@master/picture/github.png
 [gitee]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/gitee.png
 
 <details>
@@ -656,6 +656,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 | [![Github开源地址][github]](https://github.com/anilbeesetti/nextplayer/releases) |
 
   > 如果你并不知道该使用 v7a 还是 v8a，请使用 universal 版本
+
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
@@ -670,6 +671,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 | Github开源地址 |
 | :---: |
 | [![Github开源地址][github]](https://github.com/moneytoo/Player/releases) |
+
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
