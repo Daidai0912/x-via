@@ -13,7 +13,7 @@
 
 [lanzou]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/lanzou.png
 [123pan]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/123.png
-[github]: Daidai0912/Dai_dai@master/picture/github.png
+[github]: https://gcore.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/github.png
 [gitee]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/gitee.png
 
 <details>
