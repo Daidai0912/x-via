@@ -443,7 +443,7 @@
 
   - 长按视频倍速播放
 
-  - 需要更全的播放器手势？嗅探媒体资源然后调用播放器([下方播放器](https://github.com/Daidai0912/x-via#视频播放器))
+  - 需要更全的播放器手势？嗅探媒体资源然后调用播放器([下方播放器](https://github.com/Daidai0912/x-via/blob/main/README.md#%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8))
 <hr>
 
 4.[Picviewer CE+ --- 图片查看器 CE+](https://greasyfork.org/scripts/24204)
