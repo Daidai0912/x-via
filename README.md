@@ -443,7 +443,7 @@
 
   - 长按视频倍速播放
 
-  - 需要更全的播放器手势？嗅探媒体资源然后调用播放器([下方播放器](https://github.com/Daidai0912/x-via/blob/main/README.md#%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8))
+  - 需要更全的播放器手势？嗅探媒体资源然后调用播放器([查看下方播放器分类](https://github.com/Daidai0912/x-via/blob/f30c5fd9158b1e02a14fc19acd2a980585de0d95/README.md#%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8))
 <hr>
 
 4.[Picviewer CE+ --- 图片查看器 CE+](https://greasyfork.org/scripts/24204)
@@ -586,9 +586,9 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   > 因为我懒,就不去收集别人的图标包了,这里分享一个我自己的(他们说有种'杂乱的美')
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/图标包_dark.webp">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/图标包.webp">
-  <img alt="Via图标包" src="https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/图标包.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="http://shp.qpic.cn/collector/3042839226/af4a6776-f25d-4d8f-8114-6c5397bd303b/0">
+  <source media="(prefers-color-scheme: light)" srcset="http://shp.qpic.cn/collector/3042839226/5ca30d34-426b-48ea-8df6-be092d45829d/0">
+  <img alt="Via图标包" src="http://shp.qpic.cn/collector/3042839226/5ca30d34-426b-48ea-8df6-be092d45829d/0">
 </picture>
 
 | 蓝奏云<sub>`密码：12`</sub> | 123盘 |
