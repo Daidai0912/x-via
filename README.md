@@ -507,12 +507,12 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 
   * 秘塔 AI搜索
     ```
-     https://metaso.cn/?q=
+    https://metaso.cn/?q=
     ```
 
   * Perplexity AI搜索
     ```
-     https://www.perplexity.ai/?q=
+    https://www.perplexity.ai/?q=
     ```
 
   * iAsk AI搜索
