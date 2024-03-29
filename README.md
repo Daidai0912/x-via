@@ -188,7 +188,6 @@
 17.[YouTubo画质更改按钮(移动/桌面)](https://greasyfork.org/scripts/477219)
 
   - 在视频下方添加画质更改按钮,方便一键切换
-<hr>
 
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
