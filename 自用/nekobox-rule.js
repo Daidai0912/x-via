@@ -7,66 +7,62 @@
 // @match        *://*/*
 // @require      https://cdn.jsdelivr.net/npm/sweetalert2@11
 // @grant        GM_registerMenuCommand
-// @downloadURL  https://cdn.jsdelivr.net/gh/Daidai0912/x-via@main/自用/nekobox-rule.js
+// @downloadURL  https://raw.githubusercontent.com/Daidai0912/x-via/main/自用/nekobox-rule.js
 // ==/UserScript==
 
 (function() {
     'use strict';
 
-    // 将 || 替换为 regexp:
-    function replacePipe(pipeText) {
-        return pipeText.replace(/\|\|/g, 'regexp:');
-    }
+    GM_registerMenuCommand('转nekobox规则', function() {
+        var textContent = document.body.innerText.split('\n');
+        var filteredContent = [];
 
-    // 删除不以 regexp: 开头的行
-    function removeNonRegexp(text) {
-        return text.split('\n').filter(line => line.trim().startsWith('regexp:')).join('\n');
-    }
+        for (var i = 0; i < textContent.length; i++) {
+            var line = textContent[i];
+            line = line.replace(/\^/g, '');
+            if (line.includes('*')) {
+                line = line.replace(/\|\|/g, 'regexp:');
+            } else {
+                line = line.replace(/\|\|/g, '');
+            }
 
-    // 替换 . 为 \.
-    function replaceDot(dotText) {
-        return dotText.replace(/\./g, '\\.');
-    }
+            if (line.startsWith('/') && line.endsWith('/')) {
+                line = 'regexp:' + line.substring(1, line.length - 1);
+            }
 
-    // 替换 * 为 .*
-    function replaceAsterisk(asteriskText) {
-        return asteriskText.replace(/\*/g, '.*');
-    }
+            if (!line.startsWith('regexp:') && line.endsWith('.')) {
+                line = 'regexp:' + line;
+            }
 
-    // 替换 ^ 为空
-    function replaceCaret(caretText) {
-        return caretText.replace(/\^/g, '');
-    }
+            if (line.includes('|') || line.includes('!') || line.includes('/') || line.includes('$') || line.includes('?')) {
+                continue;
+            }
 
-    // 删除多余的空格，但保留换行符
-    function removeExtraSpaces(text) {
-        return text.replace(/[^\S\r\n]+/g, ' ').trim();
-    }
+            if (line.endsWith('.png') || line.endsWith('.apk') || line.endsWith('.zip') || line.endsWith('.gif') || line.endsWith('.jpg') || line.endsWith('.jpeg') || line.endsWith('.txt') || line.endsWith('.json') || /[\u4E00-\u9FA5]/.test(line)) {
+                continue;
+            }
 
-    // 删除包含图片后缀的行
-    function removeImageLines(text) {
-        return text.split('\n').filter(line => !/\.(png|gif|jpg|jpeg|bmp|svg)$/i.test(line)).join('\n');
-    }
+            if (line.trim() === '' || !line.includes('.')) {
+                continue;
+            }
 
-    // 删除包含特殊字符的行
-    function removeSpecialLines(text) {
-        return text.split('\n').filter(line => !/[/$?|]/.test(line)).join('\n');
-    }
+            if (line.startsWith('regexp')) {
+                line = line.replace(/\./g, '\\.');
+                line = line.replace(/\*/g, '.*');
+            }
 
-    // 判断是否是规则链接网页
-    function isRegularPage(text) {
-        // 统计 || 的数量
-        const pipeCount = (text.match(/\|\|/g) || []).length;
-        return pipeCount >= 10; // 当网页中少于十个 || 时，返回 false
-    }
+            line = line.replace(/\s+/g, ' ').trim();
 
-    // 执行文本操作并弹出提示框
-    function manipulateText() {
-        // 获取网页上的所有文本
-        let allText = document.body.innerText;
+            if (line.includes(' ')) {
+                continue;
+            }
 
-        if (!isRegularPage(allText)) {
-            // 如果不是规则链接网页，弹出提示框
+            filteredContent.push(line);
+        }
+
+        var finalContent = filteredContent.join('\n');
+
+        if (!finalContent.trim()) {
             Swal.fire({
                 position: "top",
                 icon: "question",
@@ -74,52 +70,13 @@
                 showConfirmButton: false,
                 timer: 1000,
             });
-            return; // 结束函数执行
+            return;
         }
 
-        // 替换 || 为 regexp:
-        allText = replacePipe(allText);
-
-        // 删除不以 regexp: 开头的行
-        allText = removeNonRegexp(allText);
-
-        // 替换 . 为 \.
-        allText = replaceDot(allText);
-
-        // 替换 * 为 .*
-        allText = replaceAsterisk(allText);
-
-        // 替换 ^ 为空
-        allText = replaceCaret(allText);
-
-        // 删除多余的空格，但保留换行符
-        allText = removeExtraSpaces(allText);
-
-        // 删除包含图片后缀的行
-        allText = removeImageLines(allText);
-
-        // 删除包含特殊字符的行
-        allText = removeSpecialLines(allText);
-
-        if (!allText.trim()) {
-            // 如果不是规则链接网页，弹出提示框
-            Swal.fire({
-                position: "top",
-                icon: "question",
-                title: "不是规则链接网页",
-                showConfirmButton: false,
-                timer: 1000,
-            });
-            return; // 结束函数执行
-        }
-
-        // 显示包含操作后文本的警告框
         Swal.fire({
             title: '可进行复制',
             input: 'textarea',
-            inputValue: allText,
-
-            // 设置input属性
+            inputValue: finalContent,
             inputAttributes: {
                 autocapitalize: 'off',
                 style: 'font-size: 12px;'
@@ -131,8 +88,5 @@
             preConfirm: (editedList) => {},
             allowOutsideClick: () => Swal.isLoading(),
         });
-    }
-
-    // 创建一个菜单命令用于文本操作
-    GM_registerMenuCommand('转nekobox规则', manipulateText);
+    });
 })();
