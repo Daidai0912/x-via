@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         转nekobox规则
 // @namespace    https://matsuridayo.github.io/nb4a-route/
-// @version      0.2
+// @version      0.3
 // @description  nekobox
 // @author       You
 // @match        *://*/*
@@ -14,6 +14,7 @@
     'use strict';
 
     GM_registerMenuCommand('转nekobox规则', function() {
+
         var textContent = document.body.innerText.split('\n');
         var filteredContent = [];
 
@@ -34,11 +35,11 @@
                 line = 'regexp:' + line;
             }
 
-            if (line.includes('|') || line.includes('!') || line.includes('/') || line.includes('$') || line.includes('?')) {
+            if (line.includes('#') || line.includes('|') || line.includes('!') || line.includes('/') || line.includes('$') || line.includes('?')) {
                 continue;
             }
 
-            if (line.endsWith('.png') || line.endsWith('.apk') || line.endsWith('.zip') || line.endsWith('.gif') || line.endsWith('.jpg') || line.endsWith('.jpeg') || line.endsWith('.txt') || line.endsWith('.json') || /[\u4E00-\u9FA5]/.test(line)) {
+            if (line.startsWith('[') || line.endsWith('.png') || line.endsWith('.apk') || line.endsWith('.zip') || line.endsWith('.gif') || line.endsWith('.jpg') || line.endsWith('.jpeg') || line.endsWith('.txt') || line.endsWith('.json') || /[\u4E00-\u9FA5]/.test(line)) {
                 continue;
             }
 
@@ -51,11 +52,7 @@
                 line = line.replace(/\*/g, '.*');
             }
 
-            line = line.replace(/\s+/g, ' ').trim();
-
-            if (line.includes(' ')) {
-                continue;
-            }
+            line = line.replace(' ', '').trim();
 
             filteredContent.push(line);
         }
@@ -66,7 +63,7 @@
             Swal.fire({
                 position: "top",
                 icon: "question",
-                title: "不是规则链接网页",
+                title: "没有替换到规则",
                 showConfirmButton: false,
                 timer: 1000,
             });
@@ -74,7 +71,8 @@
         }
 
         Swal.fire({
-            title: '可进行复制',
+            title: '可复制内容',
+            html: '<span style="font-size: 15px; color: gray;">请勿在正常网页使用该功能噢！</span>',
             input: 'textarea',
             inputValue: finalContent,
             inputAttributes: {
