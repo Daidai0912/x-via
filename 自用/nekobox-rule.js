@@ -7,6 +7,7 @@
 // @match        *://*/*
 // @require      https://cdn.jsdelivr.net/npm/sweetalert2@11
 // @grant        GM_registerMenuCommand
+// @downloadURL  https://cdn.jsdelivr.net/gh/Daidai0912/x-via@main/自用/nekobox-rule.js
 // ==/UserScript==
 
 (function() {
