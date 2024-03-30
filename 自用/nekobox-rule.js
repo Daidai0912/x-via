@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         转nekobox规则
 // @namespace    https://matsuridayo.github.io/nb4a-route/
-// @version      0.1
+// @version      0.2
 // @description  nekobox
 // @author       You
 // @match        *://*/*
