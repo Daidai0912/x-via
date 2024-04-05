@@ -516,17 +516,32 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     https://searx.si/search?q=
     ```
 
-  * 秘塔 AI搜索
+  * Swisscows
+    ```
+    https://swisscows.com/web?query=
+    ```
+
+  * DuckDuckGo
+    ```
+    https://duckduckgo.com/?q=
+    ```
+
+  * Qwant
+    ```
+    https://www.qwant.com/?q=
+    ```
+
+  * 秘塔 `AI搜索`
     ```
     https://metaso.cn/?q=
     ```
 
-  * Perplexity AI搜索
+  * Perplexity `AI搜索`
     ```
     https://www.perplexity.ai/?q=
     ```
 
-  * iAsk AI搜索
+  * iAsk `AI搜索`
     ```
     https://iask.ai/?q=
     ```
