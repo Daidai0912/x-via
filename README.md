@@ -521,6 +521,11 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     https://searx.si/search?q=
     ```
 
+  * Ecosia
+    ```
+    https://www.ecosia.org/search?q=
+    ```
+
   * Swisscows
     ```
     https://swisscows.com/web?query=
