@@ -541,6 +541,11 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     https://www.qwant.com/?q=
     ```
 
+  * 360 `AI搜索`
+    ```
+    https://www.sou.com/?q=
+    ```
+
   * 秘塔 `AI搜索`
     ```
     https://metaso.cn/?q=
