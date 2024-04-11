@@ -501,11 +501,11 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 <details>
   <summary> 展开 </summary>
 
-  * F搜 `(时常假死)`
+  * Naver
     ```
-     https://fsoufsou.com/search?tbn=all&q=
+    https://search.naver.com/search.naver?query=
     ```
-
+ 
   * Yahoo
     ```
     https://search.yahoo.com/search?p=
