@@ -271,6 +271,10 @@
 
   - 在网页底部中间,有一个按钮,用来呼出面板
 
+7.[短链生成](https://greasyfork.org/zh-CN/scripts/492351)
+
+  - 打开脚本菜单,点击生成"短链按钮"即可将当前网址转为短链,并自动复制到剪贴板
+
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
 
