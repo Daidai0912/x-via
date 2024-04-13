@@ -23,11 +23,5 @@
         "urlpc": "",
         "url": "http://cn.bing.com/search?q=%s",
         "icon": "http://down.csyunkj.com/engine_bing.png"
-    },
-    {
-        "name": "Swisscows",
-        "urlpc": "",
-        "url": "https://swisscows.com/web?query=%s",
-        "icon": "https://cdn.jsdelivr.net/gh/Daidai0912/x-via@main/自用/pic/swisscows.png"
     }
 ]
