@@ -570,6 +570,16 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     ```
     https://retardphobia.moebh.org/ui/search.html?q=
     ```
+
+  * Andi `AI搜索`
+    ```
+    https://andisearch.com/?q=
+    ```
+
+  * Phind `AI搜索`
+    ```
+    https://phind-ai.com/zh/search?q=
+    ```
 </details>
 
 ### 悄悄话
