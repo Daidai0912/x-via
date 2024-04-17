@@ -1,38 +1,53 @@
-name: Update Rules
-on: 
-  workflow_dispatch:
+
+name: D49U_name
+
+on:
   schedule:
-    - cron: '0 */12 * * *'
-    
+    - cron: "12 1 * * *"
+  workflow_dispatch:
+
 jobs:
-  update:
-    runs-on: ubuntu-latest
+  D49U_jobs:
+    runs-on: ubuntu-latest # 使用最新版Ubuntu作为运行环境
+
     steps:
-      - uses: actions/checkout@v4
-          
-      - name: Update Rules
-        continue-on-error: true
-        run: |
-          bash ./data/script/update-rules.sh
-          
-      - name: Update ReadMe
-        run: |
-          bash ./data/script/clean-readme.sh
+      - name: checkout
+        uses: actions/checkout@v4
 
-      - name: Git push assets to Github
+      - name: D49U_49
         run: |
-          git init
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git branch -m master
-          git add --all
-          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
-          git push -u origin -f
+          echo 49
 
-      - name: Delete workflow runs 
-        uses: Mattraks/delete-workflow-runs@main
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ${{ github.repository }}
-          retain_days: 0
-          keep_minimum_runs: 0
+          # 创建一个孤儿分支，并且清空所有文件
+          git checkout --orphan raw49
+          git rm -rf .
+
+          # 广告规则
+          curl -L -o ad.txt https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt # 下载广告规则
+          sed -i '/#/d' ad.txt # 删除包含井号的行
+          sed -i '/localhost/d' ad.txt # 删除包含localhost的行
+          sed -i 's/^127\.0\.0\.1 //' ad.txt # 删除 127.0.0.1
+          sed -i '/^$/d' ad.txt # 删除空行
+          sed -i 's/^/DOMAIN-SUFFIX,/' ad.txt # 在所有行前加上DOMAIN-SUFFIX
+
+          # TGIP
+          curl -L -o tgip.txt https://core.telegram.org/resources/cidr.txt # 下载 Telegram IP 地址列表
+          sed -i '/:/d' tgip.txt # 删除包含冒号的行
+          sed -i '/^$/d' tgip.txt # 删除空行
+          sed -i 's/^/IP-CIDR,/' tgip.txt # 在所有行前加上 IP-CIDR
+
+          # CNIP-misaka
+          curl -L -o misaka-cnip.txt https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
+          sed -i '/#/d' misaka-cnip.txt # 删除包含井号的行
+          sed -i '/^$/d' misaka-cnip.txt # 删除空行
+          sed -i 's/^/IP-CIDR,/' misaka-cnip.txt # 在所有行前加上 IP-CIDR
+
+          # CNIP-clang
+          curl -L -o clang-cnip.txt https://ispip.clang.cn/all_cn_cidr.txt
+          sed -i '/^$/d' clang-cnip.txt # 删除空行
+          sed -i 's/^/IP-CIDR,/' clang-cnip.txt # 在所有行前加上 IP-CIDR
+
+          # git 强制上传
+          git add .
+          git commit -m up
+          git push -f -u origin raw49
