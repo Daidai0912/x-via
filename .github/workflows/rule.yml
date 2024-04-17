@@ -1,0 +1,27 @@
+name: Download Files
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天0点触发
+
+jobs:
+  download:
+    runs-on: rule
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      - name: Download File 1
+        run: curl -o file1.txt https://cdn.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt
+      
+      - name: Download File 2
+        run: curl -o file2.txt https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt
+      
+      - name: Create Branch and Merge Files
+        run: |
+          git checkout -b new-branch
+          cat file1.txt file2.txt > rule.txt
+          git add rule.txt
+          git commit -m "Merge file1.txt and file2.txt"
+          git push origin new-branch
