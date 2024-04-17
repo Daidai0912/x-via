@@ -1,27 +1,38 @@
-name: Download Files
-
-on:
+name: Update Rules
+on: 
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # 每天0点触发
-
+    - cron: '0 */12 * * *'
+    
 jobs:
-  download:
-    runs-on: rule
-
+  update:
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-      
-      - name: Download File 1
-        run: curl -o file1.txt https://cdn.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt
-      
-      - name: Download File 2
-        run: curl -o file2.txt https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt
-      
-      - name: Create Branch and Merge Files
+      - uses: actions/checkout@v4
+          
+      - name: Update Rules
+        continue-on-error: true
         run: |
-          git checkout -b new-branch
-          cat file1.txt file2.txt > rule.txt
-          git add rule.txt
-          git commit -m "Merge file1.txt and file2.txt"
-          git push origin new-branch
+          bash ./data/script/update-rules.sh
+          
+      - name: Update ReadMe
+        run: |
+          bash ./data/script/clean-readme.sh
+
+      - name: Git push assets to Github
+        run: |
+          git init
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git branch -m master
+          git add --all
+          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
+          git push -u origin -f
+
+      - name: Delete workflow runs 
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 0
