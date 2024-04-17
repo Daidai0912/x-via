@@ -1,53 +1,32 @@
-
-name: D49U_name
+name: Download_and_Merge_Rules
 
 on:
   schedule:
-    - cron: "12 1 * * *"
+    - cron: "0 0 * * *" # 每天0点执行
   workflow_dispatch:
 
 jobs:
-  D49U_jobs:
-    runs-on: ubuntu-latest # 使用最新版Ubuntu作为运行环境
+  download_and_merge:
+    runs-on: ubuntu-latest
 
     steps:
-      - name: checkout
-        uses: actions/checkout@v4
-
-      - name: D49U_49
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      - name: Download Files
         run: |
-          echo 49
-
-          # 创建一个孤儿分支，并且清空所有文件
-          git checkout --orphan raw49
-          git rm -rf .
-
-          # 广告规则
-          curl -L -o ad.txt https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt # 下载广告规则
-          sed -i '/#/d' ad.txt # 删除包含井号的行
-          sed -i '/localhost/d' ad.txt # 删除包含localhost的行
-          sed -i 's/^127\.0\.0\.1 //' ad.txt # 删除 127.0.0.1
-          sed -i '/^$/d' ad.txt # 删除空行
-          sed -i 's/^/DOMAIN-SUFFIX,/' ad.txt # 在所有行前加上DOMAIN-SUFFIX
-
-          # TGIP
-          curl -L -o tgip.txt https://core.telegram.org/resources/cidr.txt # 下载 Telegram IP 地址列表
-          sed -i '/:/d' tgip.txt # 删除包含冒号的行
-          sed -i '/^$/d' tgip.txt # 删除空行
-          sed -i 's/^/IP-CIDR,/' tgip.txt # 在所有行前加上 IP-CIDR
-
-          # CNIP-misaka
-          curl -L -o misaka-cnip.txt https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
-          sed -i '/#/d' misaka-cnip.txt # 删除包含井号的行
-          sed -i '/^$/d' misaka-cnip.txt # 删除空行
-          sed -i 's/^/IP-CIDR,/' misaka-cnip.txt # 在所有行前加上 IP-CIDR
-
-          # CNIP-clang
-          curl -L -o clang-cnip.txt https://ispip.clang.cn/all_cn_cidr.txt
-          sed -i '/^$/d' clang-cnip.txt # 删除空行
-          sed -i 's/^/IP-CIDR,/' clang-cnip.txt # 在所有行前加上 IP-CIDR
-
-          # git 强制上传
-          git add .
-          git commit -m up
-          git push -f -u origin raw49
+          # 下载第一个链接中的内容并保存到 NoAppDownload.txt
+          curl -L -o NoAppDownload.txt https://cdn.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt
+          # 下载第二个链接中的内容并保存到 mv.txt
+          curl -L -o mv.txt https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt
+      
+      - name: Create Branch and Merge Files
+        run: |
+          # 创建一个名为 urle 的新分支
+          git checkout -b urle
+          # 合并 NoAppDownload.txt 和 mv.txt 的内容到 urle.txt
+          cat NoAppDownload.txt mv.txt > urle.txt
+          # 添加、提交和推送更改到远程仓库
+          git add urle.txt
+          git commit -m "Merge NoAppDownload.txt and mv.txt into urle.txt"
+          git push -u origin urle
