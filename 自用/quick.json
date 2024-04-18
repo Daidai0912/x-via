@@ -14,16 +14,16 @@
         "netId": 8
     },
     {
-        "title": "360百科",
+        "title": "百度",
         "icon": "",
-        "url": "https://m.baike.so.com/api/doc/search?word=%s&c=doc&a=search",
+        "url": "https://m.baidu.com/s?from=1015011n&word=%s",
         "preload": 0,
         "netId": 7
     },
     {
-        "title": "SearXNG",
+        "title": "360百科",
         "icon": "",
-        "url": "https://searx.si/search?q=%s",
+        "url": "https://m.baike.so.com/api/doc/search?word=%s&c=doc&a=search",
         "preload": 0,
         "netId": 6
     },
