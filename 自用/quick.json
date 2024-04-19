@@ -40,5 +40,12 @@
         "url": "https://metaso.cn/?q=%s",
         "preload": 0,
         "netId": 4
+    },
+    {
+        "title": "Phind AI",
+        "icon": "",
+        "url": "https://phind-ai.com/zh/search?q=%s",
+        "preload": 0,
+        "netId": 3
     }
 ]
