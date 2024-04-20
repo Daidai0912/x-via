@@ -1,58 +1,51 @@
 [
     {
-        "title": "雨见搜索",
-        "url": "yjsearch://go?q=%s",
-        "icon": "https://down.csyunkj.com/home_top.png",
-        "preload": 1,
-        "netId": 9
-    },
-    {
         "title": "必应",
         "icon": "",
         "url": "http://cn.bing.com/search?q=%s",
         "preload": 0,
-        "netId": 8
+        "netId": 9
     },
     {
         "title": "百度",
         "icon": "",
         "url": "https://m.baidu.com/s?from=1015011n&word=%s",
         "preload": 0,
-        "netId": 7
+        "netId": 8
     },
     {
         "title": "360百科",
         "icon": "",
         "url": "https://m.baike.so.com/api/doc/search?word=%s&c=doc&a=search",
         "preload": 0,
-        "netId": 6
+        "netId": 7
     },
     {
         "title": "DuckDuckGo",
         "icon": "",
         "url": "https://duckduckgo.com/?q=%s",
         "preload": 0,
-        "netId": 5
+        "netId": 6
     },
     {
         "title": "360 AI",
         "icon": "",
         "url": "https://www.sou.com/?q=%s",
         "preload": 0,
-        "netId": 4
+        "netId": 5
     },
     {
         "title": "秘塔 AI",
         "icon": "",
         "url": "https://metaso.cn/?q=%s",
         "preload": 0,
-        "netId": 3
+        "netId": 4
     },
     {
         "title": "Phind AI",
         "icon": "",
         "url": "https://phind-ai.com/zh/search?q=%s",
         "preload": 0,
-        "netId": 2
+        "netId": 3
     }
 ]
