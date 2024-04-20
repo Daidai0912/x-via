@@ -1,0 +1,51 @@
+[
+    {
+        "title": "秘塔 AI",
+        "icon": "",
+        "url": "https://metaso.cn/?q=%s",
+        "preload": 0,
+        "netId": 1
+    },
+    {
+        "title": "360 AI",
+        "icon": "",
+        "url": "https://www.sou.com/?q=%s",
+        "preload": 0,
+        "netId": 2
+    },
+    {
+        "title": "Phind AI",
+        "icon": "",
+        "url": "https://phind-ai.com/zh/search?q=%s",
+        "preload": 0,
+        "netId": 3
+    },
+    {
+        "title": "Perplexity AI",
+        "icon": "",
+        "url": "https://www.perplexity.ai/?q=%s",
+        "preload": 0,
+        "netId": 4
+    },
+    {
+        "title": "iask AI",
+        "icon": "",
+        "url": "https://iask.ai/?q=%s",
+        "preload": 0,
+        "netId": 5
+    },
+    {
+        "title": "十号 AI",
+        "icon": "",
+        "url": "https://retardphobia.moebh.org/ui/search.html?q=%s",
+        "preload": 0,
+        "netId": 6
+    },
+    {
+        "title": "Andi AI",
+        "icon": "",
+        "url": "https://andisearch.com/?q=%s",
+        "preload": 0,
+        "netId": 7
+    }
+]
