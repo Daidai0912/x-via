@@ -1,0 +1,75 @@
+{
+    "msg": "loadok",
+    "youhouurl": "https://browser.yujianpay.com/jx.txt",
+    "usexiaomi": false,
+    "runtime": true,
+    "resumePlugTwice": true,
+    "fozhidefull": true,
+    "hotmsg": "雨见浏览器",
+    "originDownload": "appfiles-ctc,pan.quark.cn,modyolo.com,attachment.hasstatic.com,8r45Vv-,118pan.com",
+    "hoturl": "https://www.yujianweb.cn",
+    "juststartua": "wap.sogou.com,cn.bing.com,microsoft.com,www.reddit.com,m.baidu.com,iqiyi.com,qq.com",
+    "fc": "24.688511050561066a9eab9d808ea76a17.2592000.1715484415.282335-20398582",
+    "fhbcz": "m.baidu.com,m.sm.cn,yz.m.sm.cn,app.people.cn,xw.qq.com,sspai.com,www.zhihu.com,browser.umeweb.com,sina.cn,m.sohu.com,so.toutiao.com",
+    "yjnews": "http://lobby.xiniu3.com/template/index.html?app_id=yujianliulanqi2&v=5#/news",
+    "yjrainnews": "http://lobby.xiniu3.com/template/index.html?app_id=yujianliulanqi&v=5#/news",
+    "originua": "heiyan.com,news.yahoo.co.jp,tv.cctv.com,zws.im,ikuuu.one,nhentai.net,dyxs15.com,app.roll20.net,mail.google.com,m.2265.com,web.telegram.org,lrc-maker.github.io,wallhere.com,github.io,m.downcc.com,m.xiezuocat.com,www.pinterest.com,m.bilibili.com,cableav.tv,yuque.com,hanime1.me,www.yueyigou.com,pay.yueyigou.com,m.2265.com,www.aliyundrive.com,www.coolapk.com,ikuuu.dev,gs.statcounter.com,ieeexplore.ieee.org,.mi.com,madou.bet,openai.com,appinn.com,cloudflare-cn.com,cloudflare.com,m.zhibo8.cc,qidian.com,poe.com,sohu.com,colamainhua.com,horou.com,fimtale.com,m.youtube.com,www.youtube.com,cowtransfer.com,twitter.com,xycontin.top,discord.gg,douyu.com,x75bcn7mlavdcmw.com,teracloud.jp,ea.com,1st.rotaeno.com,wetab.link,eu.org,douban.com,m.sogou.com,netflix.com,m.facebook.com,lygu21.com,www.bing.com,live.com,live.com,kdocs.cn,klz9.com,wy.yujianpay.com,steamstatic.com,z.didi.cn,godaddy.com,drive.google.com,user.qzone.qq.com,copilot.microsoft.com,jd.com,visualstudio.com,91porn.com,www.fut.gg,digdig.io,gamemcu.com,xhchannel.com,smartapps.cn,roll20.net,pan.baidu.com,xhamster.com"，
+    "chromeua": "mlnk.me,eduwullsion.com",
+    "icon": "http://icon.yjllq.com/iconv2.php?host=http://%s",
+    "pagejs": [
+        [
+            "zxcs.info",
+            "setInterval(()=>{var panelBodies = document.querySelectorAll('.panel-body');panelBodies.forEach(function(panelBody) {var links = panelBody.querySelectorAll('a[href=\"javascript:;\"]');links.forEach(function(link) {link.removeAttribute('href');});});},1000);"
+        ],
+        [
+            "pornhub.com",
+            "Object.defineProperties(document,{'hidden':{value:false},'visibilityState':{value:'visible'}});window.addEventListener('visibilitychange',evt=>evt.stopImmediatePropagation(),true);"
+        ],
+        [
+            "lanzou",
+            "var submitLink = document.getElementById('submit');if (submitLink) {if (submitLink''.getAttribute('target') === '_blank') {submitLink.removeAttribute('target');}}"
+        ],
+        [
+            "gitee.com",
+            "var blobFiles = document.querySelectorAll('.blob_file');blobFiles.forEach(blobFile => {const links = blobFile.querySelectorAll('a[href]'); links.forEach(link => {link.setAttribute('download', true);  });});"
+        ],
+        [
+            "comteslamod123.com",
+            "var forms = document.querySelectorAll('form');forms.forEach(form => {form.target = '_blank';});"
+        ],
+        [
+            "www.reddit.com",
+            "function isButtonVisible(button){var buttonRect=button.getBoundingClientRect();return(buttonRect.top>=0&&buttonRect.left>=0&&buttonRect.bottom<=(window.innerHeight||document.documentElement.clientHeight)&&buttonRect.right<=(window.innerWidth||document.documentElement.clientWidth))}function remove(){console.log(\"start\");try{var button=document.querySelector(\"body > shreddit-app > dsa-transparency-modal-provider > shreddit-experience-tree\").shadowRoot.querySelector(\"div > shreddit-async-loader\").shadowRoot.querySelector(\"xpromo-app-selector\").shadowRoot.querySelector(\"#secondary-button\");if(isButtonVisible(button)){console.log(\"clock\");button.click();clearInterval(window.yujianintevalremobe)}}catch(e){clearInterval(window.yujianintevalremobe)}}window.yujianintevalremobe=setInterval(()=>{remove()},500);remove();"
+        ]
+    ],
+    "replacejs": [
+        [
+            "static-resource.xiaoeknow.com/p/course/js/XiaoePlayer",
+            "this.video_urls=this.httpsReplacer(this.video_urls,\"url\"),",
+            "this.video_urls=this.httpsReplacer(this.video_urls,\"url\"),",
+            "this.video_urls=this.httpsReplacer(this.video_urls,\"url\");try{JSInterface.sysaddTagToResource(this.video_urls[0].url, \"video\")}catch(e){};"
+        ],
+        [
+            "*.youtube.com/watch",
+            "if (window.ytcsi) {",
+            "if (window.ytcsi) {",
+            "setTimeout(()=>{try{JSInterface.sysaddTagToResource(ytInitialPlayerResponse.streamingData.adaptiveFormats[0].url, \"video\")}catch(e){};},500);if (window.ytcsi) {"
+        ],
+        [
+            "mpay-web.g.mkey.163.com/h5/p3.0.21/static",
+            ",p.prototype.showOthersLoginPage=functio",
+            "ock(),t.urs.loginDolockMb(),t.termChecked=!1)})",
+            "ock(),t.urs.loginDolockMb(),t.termChecked=!1)}),e.find('.login-terms-wrapper .terms-checkbox')[0].click()"
+        ],
+        [
+            "edgestoreweb.azureedge.net/edgestoreweb/js",
+            "IS_NON_ANAHEIM_BROWSER=Object(r.a)(S.MICROSOFTEDGE)",
+            "IS_NON_ANAHEIM_BROWSER=Object(r.a)(S.MICROSOFTEDGE)",
+            "IS_NON_ANAHEIM_BROWSER=false"
+        ]
+    ],
+    "whitevideo": [],
+    "jswhite": [],
+    "noplugpage": [],
+    "pos": false
+}
