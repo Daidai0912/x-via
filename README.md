@@ -40,20 +40,35 @@
 
   个人推荐：`ABP Merge Rules`(或:`AdRules AdBlock List 精简版`) + `乘风 视频规则` + `去除APP下载提示` + `Ad-J`
 
-  * [AdRules AdBlock List 精简版](https://bitbucket.org/hacamer/adrules/raw/main/adblock_lite.txt)
-  *(3w+丨在中国地区屏蔽广告的列表)*  <sup>[主页](https://github.com/Cats-Team/AdRules)
-  * [AdRulesAdBlock List](https://bitbucket.org/hacamer/adrules/raw/main/adblock.txt)
-  *(16w+丨包含 '精简版'，在中国地区屏蔽广告的列表)*  <sup>[主页](https://github.com/Cats-Team/AdRules)
-  * [乘风广告规则](https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt)
-  *(1000+丨可能有点误杀....)*  <sup>[主页](https://github.com/xinggsf/Adblock-Plus-Rule)
-  * [乘风视频规则](https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt)
-  *(200 丨如名, 专针对视频网站作出的规则)*  <sup>[主页](https://github.com/xinggsf/Adblock-Plus-Rule)
-  * [ABPMerge Rules](https://gitea.com/lemon399/AdRules/raw/branch/main/abpmerge.txt)
-  *(5w+丨广告拦截规则合并)*  <sup>[主页](https://github.com/damengzhu/abpmerge)
-  * [去除 APP 下载提示](https://cdn.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt)
-  *(1000+丨去 APP 下载提示规则)*  <sup>[主页](https://github.com/Noyllopa/NoAppDownload)
-  * [Ad-J](https://gcore.jsdelivr.net/gh/jk278/Ad-J/Ad-J.txt)
-  *(300+丨 jk278 的自用移动端去广告规则, 常用网站精选)*  <sup>[主页](https://github.com/jk278/Ad-J/blob)
+  * AdRules AdBlock List 精简版 `(3w+丨在中国地区屏蔽广告的列表)` <sup>[主页](https://github.com/Cats-Team/AdRules)
+
+    ```
+    https://bitbucket.org/hacamer/adrules/raw/main/adblock_lite.txt
+    ```
+  * AdRulesAdBlock List `(16w+丨包含 '精简版'，在中国地区屏蔽广告的列表)` <sup>[主页](https://github.com/Cats-Team/AdRules)
+    ```
+    https://bitbucket.org/hacamer/adrules/raw/main/adblock.txt
+    ```
+  * 乘风广告规则 `(1000+丨可能有点误杀....)` <sup>[主页](https://github.com/xinggsf/Adblock-Plus-Rule)
+    ```
+    https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt
+    ```
+  * 乘风视频规则 `(200 丨如名, 专针对视频网站作出的规则)` <sup>[主页](https://github.com/xinggsf/Adblock-Plus-Rule)
+    ```
+    https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/mv.txt
+    ```
+  * ABPMerge Rules `(5w+丨广告拦截规则合并)` <sup>[主页](https://github.com/damengzhu/abpmerge)
+    ```
+    https://gitea.com/lemon399/AdRules/raw/branch/main/abpmerge.txt
+    ```
+  * 去除 APP 下载提示 `(1000+丨去 APP 下载提示规则)`  <sup>[主页](https://github.com/Noyllopa/NoAppDownload)
+    ```
+    https://cdn.jsdelivr.net/gh/Noyllopa/NoAppDownload@master/NoAppDownload.txt
+    ```
+  * Ad-J `(300+丨 jk278 的自用移动端去广告规则, 常用网站精选)`  <sup>[主页](https://github.com/jk278/Ad-J/blob)
+    ```
+    https://gcore.jsdelivr.net/gh/jk278/Ad-J/Ad-J.txt
+    ```
 <div align="center">
   <p><sub> X浏览器导入方式 </sub></p>
   <sup> 设置 » 广告拦截 » 规则文件 » (右上角) 导入 » 从网址导入 » (填写该链接后) 点击导入 </div>
