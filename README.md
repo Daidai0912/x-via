@@ -133,19 +133,12 @@
     - 在网页右下角(脚本内可修改位置)添加一个“顶部”的文字按钮,根据下滑改变为“顶部”(红色)与“底部”(蓝色),(无动画,瞬间置顶)
 <hr>
 
-9.[切换标题显示](https://greasyfork.org/scripts/480019)
-
-  - 脚本菜单切换,可像𝑉𝑖𝑎一样在地址栏切换显示: 地址/域名/标题
-
-  - Via自带,X浏览器使用 
-<hr>
-
-10.[网页加速器](https://www.youxiaohou.com/tool/install-instantpage.html)
+9。[网页加速器](https://www.youxiaohou.com/tool/install-instantpage.html)
 
   - 加速你打开链接的速度 
 <hr>
 
-11.记录页面位置 
+10.记录页面位置 
 
   - [记录页面滚动](https://greasyfork.org/scripts/483745) 酷安[@耗子Sky](https://www.coolapk.com/u/1166187)
 
@@ -441,6 +434,31 @@
 <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
 </details>
  
+<details>
+  <summary> 标题功能 </summary>
+
+  `浏览器中的地址栏内的标题显示`
+
+1.[切换标题显示](https://greasyfork.org/scripts/480019)
+
+  - 脚本菜单切换,可像𝑉𝑖𝑎一样在地址栏切换显示: 地址/域名/标题
+
+  - Via自带,X浏览器使用 
+<hr>
+
+2.[标题居中](https://greasyfork.org/zh-CN/scripts/458997)
+
+  - 将标题放置在地址栏中心位置
+
+3.[影视网页标题清理](https://greasyfork.org/zh-CN/scripts/465160)
+
+  - 从疑似影视网页的标题中提取片名与集数重新显示
+
+  - 格式化后会显示为：斗罗大陆 01
+
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
+</details>
+
 <details>
   <summary> 可能会用到系列 </summary>
 
