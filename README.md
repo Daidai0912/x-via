@@ -449,6 +449,7 @@
 2.[标题居中](https://greasyfork.org/zh-CN/scripts/458997)
 
   - 将标题放置在地址栏中心位置
+<hr>
 
 3.[影视网页标题清理](https://greasyfork.org/zh-CN/scripts/465160)
 
