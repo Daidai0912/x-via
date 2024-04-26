@@ -125,9 +125,7 @@
 
 6.[在右侧增加滚动条](https://greasyfork.org/scripts/465037)
 
-  - X 浏览器自带`无法关闭`
-
-  - Via自带`通用>操作设定 关闭`
+  - 尴尬的一个脚本,X浏览器与Via都自带`无法关闭`
 <hr>
 
 7.[简繁自由切换](https://greasyfork.org/scripts/24300)
