@@ -617,6 +617,11 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     ```
     https://phind-ai.com/zh/search?q=
     ```
+
+  * iSou `AI搜索`
+    ```
+    https://isou.chat/search?q=
+    ```
 </details>
 
 ### 悄悄话
