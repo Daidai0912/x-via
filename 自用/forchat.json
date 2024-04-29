@@ -47,5 +47,12 @@
         "url": "https://andisearch.com/?q=%s",
         "preload": 0,
         "netId": 7
+    },
+    {
+        "title": "isou AI",
+        "icon": "",
+        "url": "https://isou.chat/search?q=%s",
+        "preload": 0,
+        "netId": 8
     }
 ]
