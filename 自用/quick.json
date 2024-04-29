@@ -49,9 +49,9 @@
         "netId": 3
     },
     {
-        "title": "Phind AI",
+        "title": "isou AI",
         "icon": "",
-        "url": "https://phind-ai.com/zh/search?q=%s",
+        "url": "https://isou.chat/search?q=%s",
         "preload": 0,
         "netId": 2
     }
