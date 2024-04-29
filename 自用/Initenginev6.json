@@ -8,8 +8,8 @@
     },
     {
         "name": "百度",
-        "url": "https://m.baidu.com/s?from=1034829n&word=%s",
-        "urlpc": "https://www.baidu.com/s?wd=%s&from=1034829n",
+        "url": "https://m.baidu.com/s?word=%s",
+        "urlpc": "https://www.baidu.com/s?wd=%s",
         "icon": "http://down.csyunkj.com/engine_baidu.png"
     },
     {
