@@ -16,15 +16,15 @@
     {
         "title": "百度",
         "icon": "",
-        "url": "https://m.baidu.com/s?word=%s",
+        "url": "https://m.baidu.com/s?from=1015011i&word=%s",
         "preload": 0,
         "netId": 7
     },
     {
         "title": "搜狗",
         "icon": "",
-        "url": "https://wap.sogou.com/web/slkeyword=%s",
-        "preload": 0,
+        "url": "https://wap.sogou.com/web/sl?bid=sogou-mobb-674b1117ecbd3cbd&keyword=%s",
+        "preload": 1,
         "netId": 6
     }
 ]
