@@ -1,23 +1,31 @@
-name: settle
+name: Update JSON
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *' # 每天0点执行
 
 jobs:
   update-json:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v2
-      
-      - name: Settle API Request
+
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Fetch JSON
         run: |
-          curl -s https://api.yjllq.com/index.php/api/settle/settlev11 > settle.json
-          sed -i 's/"whitevideo": \[\]/"whitevideo": []/g' settle.json
-      
-      - name: Commit and push changes
+          curl https://api.yjllq.com/index.php/api/settle/settlev11 -o settle.json
+
+      - name: Update JSON
         run: |
-          git add settle.json
-          git commit -m "Update settle.json"
+          jq '.whitevideo = []' settle.json > temp.json && mv temp.json settle.json
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update settle.json" -a
           git push
