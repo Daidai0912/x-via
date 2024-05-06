@@ -24,8 +24,6 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git add .
           git commit -m "Update settle.json" -a
           git push
