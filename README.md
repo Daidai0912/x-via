@@ -255,19 +255,23 @@
   - 酷安,贴吧,知乎一系列.的外部链接,自动跳转,规则简单
 <hr>
 
-3.[anti-redirect --- 反重定向](https://greasyfork.org/scripts/11915)
+3.[Open the F**king URL Right Now](https://greasyfork.org/zh-CN/scripts/412612)
+
+  - 自动跳转某些网站不希望用户直达的外链
+
+4.[anti-redirect --- 反重定向](https://greasyfork.org/scripts/11915)
 
   - 去除各搜索引擎/常用网站的重定向
 <hr>
 
-4.[链接助手](https://greasyfork.org/scripts/464541)
+5.[链接助手](https://greasyfork.org/scripts/464541)
 
   - 可对单个网站自定义链接规则在新标签页中打开
 
   - 文本链接转为超链接...等
 <hr>
 
-5.让网页中的文字链接变为可点击
+6.让网页中的文字链接变为可点击
 
   - [Linkify Plus Plus](https://greasyfork.org/scripts/4255)`推荐`
 
@@ -276,14 +280,14 @@
   - [测试链接是否可直接点击的网址](https://rawgit.com/eight04/linkify-plus-plus/master/demo/demo.html)
 <hr>
 
-6.[链接地址洗白白](https://greasyfork.org/scripts/373270)
+7.[链接地址洗白白](https://greasyfork.org/scripts/373270)
 
   - 把链接地址缩减至最短可用状态,并复制到剪切板
 
   - 在网页底部中间,有一个按钮,用来呼出面板
 <hr>
 
-7.[短链生成](https://greasyfork.org/zh-CN/scripts/492351)
+8.[短链生成](https://greasyfork.org/zh-CN/scripts/492351)
 
   - 打开脚本菜单,点击生成"短链按钮"即可将当前网址转为短链,并自动复制到剪贴板
 
