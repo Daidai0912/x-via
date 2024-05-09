@@ -258,6 +258,7 @@
 3.[Open the F**king URL Right Now](https://greasyfork.org/zh-CN/scripts/412612)
 
   - 自动跳转某些网站不希望用户直达的外链
+<hr>
 
 4.[anti-redirect --- 反重定向](https://greasyfork.org/scripts/11915)
 
