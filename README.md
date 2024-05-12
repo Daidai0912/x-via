@@ -99,7 +99,7 @@
 
 2.𝐛𝐢𝐥𝐢𝐛𝐢𝐥𝐢不打开𝐀𝐏𝐏,网页直接看推荐内容 
 
-  - [完全自动播放,但声音需要手动点击右下角音量开启](https://greasyfork.org/scripts/468246)`推荐`
+  - [完全自动播放,但声音需要手动点击按钮开启](https://greasyfork.org/scripts/468246)`推荐`
 
   - [只需要点击一次弹窗即可播放](https://greasyfork.org/scripts/454669)
 
