@@ -54,5 +54,12 @@
         "url": "https://isou.chat/search?q=%s",
         "preload": 0,
         "netId": 8
+    },
+    {
+        "title": "天工 AI",
+        "icon": "",
+        "url": "https://www.tiangong.cn/result?q=%s",
+        "preload": 0,
+        "netId": 9
     }
 ]
