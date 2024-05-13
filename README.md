@@ -627,6 +627,12 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     ```
     https://isou.chat/search?q=
     ```
+    
+  * 天工 `AI搜索`
+    ```
+    https://www.tiangong.cn/result?q=
+    ```
+
 </details>
 
 ### 悄悄话
