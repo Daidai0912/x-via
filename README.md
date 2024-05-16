@@ -102,7 +102,7 @@
   - [bilibili 移动端 Lite](https://greasyfork.org/zh-CN/scripts/468246)
     - B站移动端网页推荐视频直接看
   - [bilibili 移动端](https://greasyfork.org/zh-CN/scripts/490548)
-    -  需要为网站打开电脑模式或者设置桌面UA
+    -  需要为网站设置桌面UA(关闭桌面模式,仅设置桌面UA)
     -  不登录看完整评论请使用 [Bilibili - 在未登录的情况下照常加载评论](https://greasyfork.org/zh-CN/scripts/473498)
     -  不登录试用最高画质使用 [Bilibili - 在未登录的情况下自动并无限试用最高画质](https://greasyfork.org/zh-CN/scripts/467511)
 <hr>
