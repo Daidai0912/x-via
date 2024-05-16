@@ -104,7 +104,7 @@
   - [bilibili 移动端](https://greasyfork.org/zh-CN/scripts/490548)
     -  需要为网站打开电脑模式或者设置桌面UA
     -  不登录看完整评论请使用 [Bilibili - 在未登录的情况下照常加载评论](https://greasyfork.org/zh-CN/scripts/473498)
-    -  登录试用最高画质使用 [Bilibili - 在未登录的情况下自动并无限试用最高画质](https://greasyfork.org/zh-CN/scripts/467511)
+    -  不登录试用最高画质使用 [Bilibili - 在未登录的情况下自动并无限试用最高画质](https://greasyfork.org/zh-CN/scripts/467511)
 <hr>
 
 3.[CSDN直接复制](https://greasyfork.org/scripts/458601)
