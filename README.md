@@ -97,13 +97,14 @@
   - 记得关闭𝗫浏览器自带的下拉刷新：手势设置中 
 <hr>
 
-2.𝐛𝐢𝐥𝐢𝐛𝐢𝐥𝐢不打开𝐀𝐏𝐏,网页直接看推荐内容 
+2.𝐛𝐢𝐥𝐢𝐛𝐢𝐥𝐢网页版优化
 
-  - [完全自动播放,但声音需要手动点击按钮开启](https://greasyfork.org/scripts/468246)`推荐`
-
-  - [只需要点击一次弹窗即可播放](https://greasyfork.org/scripts/454669)
-
-  - [需要手动确认点击跳转,手动关闭弹窗等](https://greasyfork.org/scripts/458276)
+  - [bilibili 移动端 Lite](https://greasyfork.org/zh-CN/scripts/468246)
+    - B站移动端网页推荐视频直接看
+  - [bilibili 移动端](https://greasyfork.org/zh-CN/scripts/490548)
+    -  需要为网站打开电脑模式或者设置桌面UA
+    -  不登录看完整评论请使用 [Bilibili - 在未登录的情况下照常加载评论](https://greasyfork.org/zh-CN/scripts/473498)
+    -  登录试用最高画质使用 [Bilibili - 在未登录的情况下自动并无限试用最高画质](https://greasyfork.org/zh-CN/scripts/467511)
 <hr>
 
 3.[CSDN直接复制](https://greasyfork.org/scripts/458601)
