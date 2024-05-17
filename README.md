@@ -101,10 +101,12 @@
 
   - [bilibili 移动端 Lite](https://greasyfork.org/zh-CN/scripts/468246)
     - B站移动端网页推荐视频直接看
+
   - [bilibili 移动端](https://greasyfork.org/zh-CN/scripts/490548)
     -  需要为网站设置桌面UA(关闭桌面模式,仅设置桌面UA)
     -  不登录看完整评论请使用 [Bilibili - 在未登录的情况下照常加载评论](https://greasyfork.org/zh-CN/scripts/473498)
     -  不登录试用最高画质使用 [Bilibili - 在未登录的情况下自动并无限试用最高画质](https://greasyfork.org/zh-CN/scripts/467511)
+    -  不登录的情况下看B站视频时不再被自动暂停视频及要求登录账号 [Bilibili - 防止视频被自动暂停及弹出登录窗口](https://greasyfork.org/zh-CN/scripts/467474)
 <hr>
 
 3.[CSDN直接复制](https://greasyfork.org/scripts/458601)
