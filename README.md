@@ -149,7 +149,7 @@
     - 在网页右下角(脚本内可修改位置)添加一个“顶部”的文字按钮,根据下滑改变为“顶部”(红色)与“底部”(蓝色),(无动画,瞬间置顶)
 <hr>
 
-9。[网页加速器](https://www.youxiaohou.com/tool/install-instantpage.html)
+9.[网页加速器](https://www.youxiaohou.com/tool/install-instantpage.html)
 
   - 加速你打开链接的速度 
 <hr>
@@ -344,9 +344,12 @@
   - 谷歌百度搜狗神马必应头条搜索去广告
 <hr>
 
-2.[YouTube去广告](https://greasyfork.org/scripts/459541)
-
-  - 这是一个去除YouTube广告的脚本，轻量且高效，它能丝滑的去除界面广告和视频广告，包括6s广告。
+2.YouTube
+  - [YouTube去广告](https://greasyfork.org/scripts/459541)
+    - 这是一个去除YouTube广告的脚本，轻量且高效，它能丝滑的去除界面广告和视频广告，包括6s广告。
+  - [YouTube视频&音乐&儿童广告拦截](https://greasyfork.org/zh-CN/scripts/480192)
+    - 拦截所有youtube视频广告，音乐播放广告，儿童视频广告，不留白，不闪屏，无感，体验第一。 已适配移动端，支持自定义拦截,添加影视频道
+    - 搜索框输入 2333 可以打开设置界面
 <hr>
 
 3.[123云盘去广告](https://greasyfork.org/zh-CN/scripts/489252)
