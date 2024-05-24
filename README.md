@@ -128,7 +128,8 @@
 
 6.[在右侧增加滚动条](https://greasyfork.org/scripts/465037)
 
-  - 尴尬的一个脚本,X浏览器与Via都自带`无法关闭`
+  - Via自带`无法关闭`
+  - X浏览器:`基本设置`->`禁用快速滚动滑块`
 <hr>
 
 7.[简繁自由切换](https://greasyfork.org/scripts/24300)
@@ -151,7 +152,7 @@
 
 9.[网页加速器](https://www.youxiaohou.com/tool/install-instantpage.html)
 
-  - 加速你打开链接的速度 
+  - 加速你打开链接的速度`不确定是否在手机上有用`
 <hr>
 
 10.记录页面位置 
@@ -181,7 +182,8 @@
 
   - [长按图片后出现选择框,点击后可选择搜图方式,点击空白处或退出则消失](https://greasyfork.org/zh-CN/scripts/491146)
 
-    - 𝑉𝑖𝑎自带,𝗫浏览器推荐用 
+    - 𝑉𝑖𝑎自带`长按图片后有以图搜图功能`
+    - 𝗫浏览器可以考虑用`不是很好用`
 <hr>
 
 14.[防止未经授权的自动复制](https://greasyfork.org/scripts/461625)
