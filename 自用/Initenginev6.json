@@ -7,10 +7,10 @@
         "intro": ""
     },
     {
-        "name": "百度",
-        "url": "https://m.baidu.com/s?word=%s",
-        "urlpc": "https://www.baidu.com/s?wd=%s",
-        "icon": "http://down.csyunkj.com/engine_baidu.png"
+        "name": "必应",
+        "urlpc": "",
+        "url": "http://cn.bing.com/search?q=%s",
+        "icon": "http://down.csyunkj.com/engine_bing.png"
     },
     {
         "name": "谷歌",
@@ -19,10 +19,10 @@
         "icon": "http://down.csyunkj.com/engine_google.png"
     },
     {
-        "name": "必应",
-        "urlpc": "",
-        "url": "http://cn.bing.com/search?q=%s",
-        "icon": "http://down.csyunkj.com/engine_bing.png"
+        "name": "百度",
+        "url": "https://m.baidu.com/s?word=%s",
+        "urlpc": "https://www.baidu.com/s?wd=%s",
+        "icon": "http://down.csyunkj.com/engine_baidu.png"
     },
     {
         "name": "搜狗",
