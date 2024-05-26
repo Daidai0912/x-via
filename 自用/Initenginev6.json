@@ -23,5 +23,11 @@
         "urlpc": "",
         "url": "http://cn.bing.com/search?q=%s",
         "icon": "http://down.csyunkj.com/engine_bing.png"
+    },
+    {
+        "name": "搜狗",
+        "urlpc": "",
+        "url": "https://wap.sogou.com/web/sl?bid=sogou-mobb-674b1117ecbd3cbd&keyword=%s",
+        "icon": "https://file.yujianpay.com/sougou3.png"
     }
 ]
