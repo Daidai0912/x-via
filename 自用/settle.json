@@ -2,19 +2,20 @@
     "msg": "loadok",
     "youhouurl": "https://browser.yujianpay.com/jx.txt",
     "usexiaomi": true,
+    "usexiaomi2": false,
     "runtime": true,
     "resumePlugTwice": true,
     "fozhidefull": true,
     "hotmsg": "雨见浏览器",
     "originDownload": "appfiles-ctc,pan.quark.cn,modyolo.com,attachment.hasstatic.com,8r45Vv-,118pan.com",
     "hoturl": "https://www.yujianweb.cn",
-    "juststartua": "wap.sogou.com,cn.bing.com,microsoft.com,www.reddit.com,m.baidu.com,iqiyi.com,qq.com",
-    "fc": "24.630925d2422616923241676836ce8897.2592000.1716780415.282335-20398582",
-    "fhbcz": "m.baidu.com,m.sm.cn,yz.m.sm.cn,app.people.cn,xw.qq.com,sspai.com,www.zhihu.com,browser.umeweb.com,sina.cn,m.sohu.com,so.toutiao.com",
+    "juststartua": "wap.sogou.com,cn.bing.com,microsoft.com,www.reddit.com,m.baidu.com,iqiyi.com,qq.com,taobao.com",
+    "fc": "24.ed82daf0f395c61b95051c97304d278e.2592000.1719372416.282335-20398582",
+    "fhbcz": "m.baidu.com,m.sm.cn,yz.m.sm.cn,app.people.cn,xw.qq.com,sspai.com,www.zhihu.com,browser.umeweb.com,sina.cn,m.sohu.com,so.toutiao.com,yandex.com",
     "yjnews": "http://lobby.xiniu3.com/template/index.html?app_id=yujianliulanqi2&v=5#/news",
     "yjrainnews": "http://lobby.xiniu3.com/template/index.html?app_id=yujianliulanqi&v=5#/news",
-    "originua": "heiyan.com,news.yahoo.co.jp,tv.cctv.com,zws.im,ikuuu.one,nhentai.net,dyxs15.com,app.roll20.net,mail.google.com,m.2265.com,web.telegram.org,lrc-maker.github.io,wallhere.com,github.io,m.downcc.com,m.xiezuocat.com,www.pinterest.com,m.bilibili.com,cableav.tv,yuque.com,hanime1.me,www.yueyigou.com,pay.yueyigou.com,m.2265.com,www.aliyundrive.com,www.coolapk.com,ikuuu.dev,gs.statcounter.com,ieeexplore.ieee.org,.mi.com,madou.bet,openai.com,appinn.com,cloudflare-cn.com,cloudflare.com,m.zhibo8.cc,qidian.com,poe.com,sohu.com,colamainhua.com,horou.com,fimtale.com,m.youtube.com,www.youtube.com,cowtransfer.com,twitter.com,xycontin.top,discord.gg,douyu.com,x75bcn7mlavdcmw.com,teracloud.jp,ea.com,1st.rotaeno.com,wetab.link,eu.org,douban.com,m.sogou.com,netflix.com,m.facebook.com,lygu21.com,www.bing.com,live.com,live.com,kdocs.cn,klz9.com,wy.yujianpay.com,steamstatic.com,z.didi.cn,godaddy.com,drive.google.com,user.qzone.qq.com,copilot.microsoft.com,jd.com,visualstudio.com,91porn.com,www.fut.gg,digdig.io,gamemcu.com,xhchannel.com,smartapps.cn,roll20.net,pan.baidu.com,xhamster.com,murmurai.fun"，
-    "chromeua": "mlnk.me,eduwullsion.com",
+    "originua": "heiyan.com,news.yahoo.co.jp,tv.cctv.com,zws.im,ikuuu.one,nhentai.net,dyxs15.com,app.roll20.net,mail.google.com,m.2265.com,web.telegram.org,lrc-maker.github.io,wallhere.com,github.io,m.downcc.com,m.xiezuocat.com,www.pinterest.com,m.bilibili.com,cableav.tv,yuque.com,hanime1.me,www.yueyigou.com,pay.yueyigou.com,m.2265.com,www.aliyundrive.com,www.coolapk.com,ikuuu.dev,gs.statcounter.com,ieeexplore.ieee.org,.mi.com,madou.bet,openai.com,appinn.com,cloudflare-cn.com,cloudflare.com,m.zhibo8.cc,qidian.com,poe.com,sohu.com,colamainhua.com,horou.com,fimtale.com,m.youtube.com,www.youtube.com,cowtransfer.com,twitter.com,xycontin.top,discord.gg,douyu.com,x75bcn7mlavdcmw.com,teracloud.jp,ea.com,1st.rotaeno.com,wetab.link,eu.org,douban.com,m.sogou.com,netflix.com,m.facebook.com,lygu21.com,www.bing.com,live.com,live.com,kdocs.cn,klz9.com,wy.yujianpay.com,steamstatic.com,z.didi.cn,godaddy.com,drive.google.com,user.qzone.qq.com,copilot.microsoft.com,jd.com,visualstudio.com,91porn.com,www.fut.gg,digdig.io,gamemcu.com,xhchannel.com,smartapps.cn,roll20.net,pan.baidu.com,xhamster.com,murmurai.fun,taobao.com,4399.com,tmall.com,kaisouai.com,100ico.cn,v.qq.com,danji100.com",
+    "chromeua": "mlnk.me,eduwullsion.com,google.com",
     "icon": "http://icon.yjllq.com/iconv2.php?host=http://%s",
     "pagejs": [
         [
@@ -48,6 +49,10 @@
         [
             "zhihu.com",
             "document.querySelector('.Input').style.width='100px'"
+        ],
+        [
+            "www.4399.com",
+            "setInterval(()=>{var addiv = document.querySelector('#addiv');if(addiv){addiv.style.display='none'}},500)"
         ]
     ],
     "replacejs": [
