@@ -61,5 +61,12 @@
         "url": "https://www.tiangong.cn/result?q=%s",
         "preload": 0,
         "netId": 9
+    },
+    {
+        "title": "Farfalle AI",
+        "icon": "",
+        "url": "https://www.farfalle.dev/?q=%s",
+        "preload": 0,
+        "netId": 10
     }
 ]
