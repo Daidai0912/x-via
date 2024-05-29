@@ -35,9 +35,9 @@
         "netId": 5
     },
     {
-        "title": "十号 AI",
+        "title": "ThinkAny AI",
         "icon": "",
-        "url": "https://retardphobia.moebh.org/ui/search.html?q=%s",
+        "url": "https://thinkany.ai/zh/search?q=%s",
         "preload": 0,
         "netId": 6
     },
@@ -49,7 +49,7 @@
         "netId": 7
     },
     {
-        "title": "isou AI",
+        "title": "iSou AI",
         "icon": "",
         "url": "https://isou.chat/search?q=%s",
         "preload": 0,
