@@ -643,6 +643,10 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     https://www.tiangong.cn/result?q=
     ```
 
+  * Farfalle `AI搜索`
+    ```
+    https://www.farfalle.dev/?q=
+    ```
 </details>
 
 ### 悄悄话
