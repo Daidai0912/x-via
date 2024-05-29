@@ -618,9 +618,9 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     https://iask.ai/?q=
     ```
 
-  * 十号AI `AI搜索`
+  * ThinkAny `AI搜索`
     ```
-    https://retardphobia.moebh.org/ui/search.html?q=
+    https://thinkany.ai/zh/search?q=
     ```
 
   * Andi `AI搜索`
