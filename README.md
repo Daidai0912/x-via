@@ -647,6 +647,11 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     ```
     https://www.farfalle.dev/?q=
     ```
+
+  * You `AI搜索`
+    ```
+    https://you.com/search?fromSearchBar=true&tbm=youchat&chatMode=default&q=
+    ```
 </details>
 
 ### 悄悄话
