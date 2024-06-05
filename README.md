@@ -17,7 +17,7 @@
 [gitee]: https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/gitee.png
 
 <details>
-  <summary>在此之前使用的[QQ收藏]已废弃</summary>
+  <summary>考古->[QQ收藏]</summary>
 
   ### [QQ收藏](https://sharechain.qq.com/a5a372bae6710cac84a1554022378a57)
 
@@ -794,3 +794,18 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 </details>
 
 > [四个播放器下载](https://www.123pan.com/s/YHGHjv-yRaC)
+
+## 半梦半醒/via浏览器可用油猴脚本分享
+
+<details>
+  <summary> 展开 </summary>
+
+  `下图文档为 酷安@半烟半雨溪桥畔 编写，也很完美，推荐一看。不止脚本一类，via的很多功能也有介绍`
+
+酷安[@半烟半雨溪桥畔](https://www.coolapk1s.com/u/20596394)
+
+[半梦半醒/via浏览器可用油猴脚本分享](https://gitee.com/half-dream-half-wake/script-share/blob/master/README.md)
+
+[![半梦半醒](https://gcore.jsdelivr.net/gh/Daidai0912/x-via@main/%E8%87%AA%E7%94%A8/pic/%E5%8D%8A%E6%A2%A6%E5%8D%8A%E9%86%92.png)](https://gitee.com/half-dream-half-wake/script-share/blob/master/README.md)
+
+</details>
