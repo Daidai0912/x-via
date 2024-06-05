@@ -545,7 +545,7 @@ Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 * 简单搜索 + 塞班
 `去除百度搜索的自动播放、部分其他网站广告`
 ```
-Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36 SearchCraft/2.8.2
+Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4844.88 Mobile Safari/537.36 ChatSearch/1.0 SearchCraft/5.7.0.5
 ```
 </details>
 
