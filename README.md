@@ -568,11 +568,6 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     https://search.yahoo.com/search?p=
     ```
 
-  * 无追
-    ```
-     https://www.wuzhuiso.com/s?q=
-    ```
-
   * SearXNG
     ```
     https://searx.si/search?q=
