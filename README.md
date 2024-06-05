@@ -526,6 +526,8 @@
 <details>
   <summary> 展开 </summary>
   
+  `UA这个东西不用刻意收集，需要什么UA可直接通过搜索引擎进行查找`
+  
 * 百度：简单搜索
 `可去除百度搜索引擎的自动播放视频，以及广告标签内容`
 > 旧版 - SearchCraft/2.8.2
@@ -536,14 +538,7 @@ Mozilla/5.0 (Linux; Android 12; splash water mobile phone) AppleWebKit/537.36 (K
 >
 > 有AI回答
 ```
-Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 SearchCraft/3.10.1 ChatSearch/1.0 SearchCraft/5.7.0.5 (Baidu; P1 10)
-```
-<hr>
-
-* 无追：简单搜索
-`去除无追搜索的广告`
-```
-Mozilla/5.0 (Linux; Android 11 ) AppleWebKit/537.36 (KHTML, like Gecko) Mobile WuZhui/1.6.0
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ChatSearch/1.0 SearchCraft/5.7.0.5 (Baidu; P1 10)
 ```
 <hr>
 
