@@ -639,7 +639,87 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
     ```
 </details>
 
-### 悄悄话
+## 视频播放器
+<details>
+  <summary> Reex </summary>
+  <br>
+  
+  ![Reex](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/reex.jpg)
+
+  > 长按倍速, 双击两侧快进, 双击中心暂停。支持长按倍速、快进秒数设置。支持关闭单个手势。拥有播放历史, 支持挂载 WebDav
+
+| 蓝奏云<sub>`密码：qazw`</sub> | Gitee |
+| :---: | :---: |
+| [![蓝奏云(密码：qazw)][lanzou]](https://www.lanzn.com/b01np165c) | [![Reex - Gitee下载地址][gitee]](https://gitee.com/lntls/reex/releases)
+
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
+</details>
+
+<details>
+  <summary> MX Player </summary>
+  <br>
+  
+  ![MX](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/mx%20player.jpg)
+
+  > MX Player(MX播放器专业版）：已解锁付费。新版已支持所有手势功能，长按倍速、双击快进快退.... 解码强大，非常推荐。
+
+| 123盘 |
+| :---: |
+| [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-bNJC.html) |
+
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
+</details>
+
+<details>
+  <summary> Next Player </summary>
+  <br>
+  
+  ![Next Player](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/next%20player.jpg)
+
+  > 与 Reex 大致相同，手势全部支持，但不支持mpv语法，不支持挂载WebDav
+
+| Github开源地址 |
+| :---: |
+| [![Github开源地址][github]](https://github.com/anilbeesetti/nextplayer/releases) |
+
+  > 如果你并不知道该使用 v7a 还是 v8a，请使用 universal 版本
+
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
+</details>
+
+<details>
+  <summary> Just Player </summary>
+  <br>
+  
+  ![Just Player](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/just%20player.jpg)
+
+  > 不支持长按倍速，可双击两侧进行快进快退。纯纯一个使用 APP 调用的播放器, 软件本身没有界面, 打开就是播放视频 (上次调用的视频), 点击文件夹选择视频, 长按文件夹选择字幕。长按齿轮进入设置。该软件没有播放历史。
+
+| Github开源地址 |
+| :---: |
+| [![Github开源地址][github]](https://github.com/moneytoo/Player/releases) |
+
+<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
+</details>
+
+> [四个播放器下载](https://www.123pan.com/s/YHGHjv-yRaC)
+
+## 半梦半醒/via浏览器可用油猴脚本分享
+
+<details>
+  <summary> 展开 </summary>
+
+  `下图文档为 酷安@半烟半雨溪桥畔 编写，也很完美，推荐一看。不止脚本一类，via的很多功能也有介绍`
+
+酷安[@半烟半雨溪桥畔](https://www.coolapk1s.com/u/20596394)
+
+[半梦半醒/via浏览器可用油猴脚本分享](https://gitee.com/half-dream-half-wake/script-share/blob/master/README.md)
+
+[![半梦半醒](https://gcore.jsdelivr.net/gh/Daidai0912/x-via@main/%E8%87%AA%E7%94%A8/pic/%E5%8D%8A%E6%A2%A6%E5%8D%8A%E9%86%92.png)](https://gitee.com/half-dream-half-wake/script-share/blob/master/README.md)
+
+</details>
+
+#### 悄悄话
 
 <details>
   <summary> 展开 </summary>
@@ -728,84 +808,4 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 [![蓝奏云(密码：12)][lanzou]](https://zhizhangyi.lanzout.com/b01s59nif) | [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-9qJC.html) |
 
 </details>
-</details>
-
-## 视频播放器
-<details>
-  <summary> Reex </summary>
-  <br>
-  
-  ![Reex](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/reex.jpg)
-
-  > 长按倍速, 双击两侧快进, 双击中心暂停。支持长按倍速、快进秒数设置。支持关闭单个手势。拥有播放历史, 支持挂载 WebDav
-
-| 蓝奏云<sub>`密码：qazw`</sub> | Gitee |
-| :---: | :---: |
-| [![蓝奏云(密码：qazw)][lanzou]](https://www.lanzn.com/b01np165c) | [![Reex - Gitee下载地址][gitee]](https://gitee.com/lntls/reex/releases)
-
-<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
-</details>
-
-<details>
-  <summary> MX Player </summary>
-  <br>
-  
-  ![MX](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/mx%20player.jpg)
-
-  > MX Player(MX播放器专业版）：已解锁付费。新版已支持所有手势功能，长按倍速、双击快进快退.... 解码强大，非常推荐。
-
-| 123盘 |
-| :---: |
-| [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-bNJC.html) |
-
-<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
-</details>
-
-<details>
-  <summary> Next Player </summary>
-  <br>
-  
-  ![Next Player](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/next%20player.jpg)
-
-  > 与 Reex 大致相同，手势全部支持，但不支持mpv语法，不支持挂载WebDav
-
-| Github开源地址 |
-| :---: |
-| [![Github开源地址][github]](https://github.com/anilbeesetti/nextplayer/releases) |
-
-  > 如果你并不知道该使用 v7a 还是 v8a，请使用 universal 版本
-
-<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
-</details>
-
-<details>
-  <summary> Just Player </summary>
-  <br>
-  
-  ![Just Player](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/just%20player.jpg)
-
-  > 不支持长按倍速，可双击两侧进行快进快退。纯纯一个使用 APP 调用的播放器, 软件本身没有界面, 打开就是播放视频 (上次调用的视频), 点击文件夹选择视频, 长按文件夹选择字幕。长按齿轮进入设置。该软件没有播放历史。
-
-| Github开源地址 |
-| :---: |
-| [![Github开源地址][github]](https://github.com/moneytoo/Player/releases) |
-
-<img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
-</details>
-
-> [四个播放器下载](https://www.123pan.com/s/YHGHjv-yRaC)
-
-## 半梦半醒/via浏览器可用油猴脚本分享
-
-<details>
-  <summary> 展开 </summary>
-
-  `下图文档为 酷安@半烟半雨溪桥畔 编写，也很完美，推荐一看。不止脚本一类，via的很多功能也有介绍`
-
-酷安[@半烟半雨溪桥畔](https://www.coolapk1s.com/u/20596394)
-
-[半梦半醒/via浏览器可用油猴脚本分享](https://gitee.com/half-dream-half-wake/script-share/blob/master/README.md)
-
-[![半梦半醒](https://gcore.jsdelivr.net/gh/Daidai0912/x-via@main/%E8%87%AA%E7%94%A8/pic/%E5%8D%8A%E6%A2%A6%E5%8D%8A%E9%86%92.png)](https://gitee.com/half-dream-half-wake/script-share/blob/master/README.md)
-
 </details>
