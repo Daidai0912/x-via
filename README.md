@@ -285,7 +285,9 @@
 
   - [Text To link](https://mirror.ghproxy.com/https://raw.githubusercontent.com/lkytal/GM/master/linkMix.user.js)
 
-  - [测试链接是否可直接点击的网址](https://rawgit.com/eight04/linkify-plus-plus/master/demo/demo.html)
+  - [linkify-改了又改](https://greasyfork.org/zh-CN/scripts/471794)
+
+    - [测试链接是否可直接点击的网址](https://rawgit.com/eight04/linkify-plus-plus/master/demo/demo.html)
 <hr>
 
 7.[链接地址洗白白](https://greasyfork.org/scripts/373270)
