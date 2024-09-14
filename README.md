@@ -661,7 +661,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   <summary> MX Player </summary>
   <br>
   
-  ![MX](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/mx%20player.jpg)
+  ![MX](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/mx player.jpg)
 
   > MX Player(MX播放器专业版）：已解锁付费。新版已支持所有手势功能，长按倍速、双击快进快退.... 解码强大，非常推荐。
 
@@ -676,7 +676,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   <summary> Next Player </summary>
   <br>
   
-  ![Next Player](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/next%20player.jpg)
+  ![Next Player](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/next player.jpg)
 
   > 与 Reex 大致相同，手势全部支持，但不支持mpv语法，不支持挂载WebDav
 
@@ -693,7 +693,7 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
   <summary> Just Player </summary>
   <br>
   
-  ![Just Player](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/just%20player.jpg)
+  ![Just Player](https://cdn.jsdelivr.net/gh/Daidai0912/Dai_dai@master/picture/just player.jpg)
 
   > 不支持长按倍速，可双击两侧进行快进快退。纯纯一个使用 APP 调用的播放器, 软件本身没有界面, 打开就是播放视频 (上次调用的视频), 点击文件夹选择视频, 长按文件夹选择字幕。长按齿轮进入设置。该软件没有播放历史。
 
@@ -717,97 +717,6 @@ Mozilla/5.0 (Linux; SymbianOS/9.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 
 [半梦半醒/via浏览器可用油猴脚本分享](https://gitee.com/half-dream-half-wake/script-share/blob/master/README.md)
 
-[![半梦半醒](https://gcore.jsdelivr.net/gh/Daidai0912/x-via@main/%E8%87%AA%E7%94%A8/pic/%E5%8D%8A%E6%A2%A6%E5%8D%8A%E9%86%92.png)](https://gitee.com/half-dream-half-wake/script-share/blob/master/README.md)
+[![半梦半醒](https://gcore.jsdelivr.net/gh/Daidai0912/x-via@main/自用/pic/半梦半醒.png)](https://gitee.com/half-dream-half-wake/script-share/blob/master/README.md)
 
-</details>
-
-#### 悄悄话
-
-<details>
-  <summary> 展开 </summary>
-  
-  `自用,若用于其他用途自行承担责任`
-<details>
-  <summary> 𝗫浏览器 - 去白名单 </summary>
-
-- 蓝奏云有文件说明,123云盘不能添加说明
-  
-- 去除白名单限制
-
-- 和原版共存, 不影响原版
-
-- 修改图标(下图)
-
-![X浏览器](http://shp.qpic.cn/collector/3042839226/08bbb56a-354c-46f2-b3fc-4e920c80950e/0)
-
-* 𝗫浏览器去限制-共存
-
-| 蓝奏云<sub>`密码：12`</sub> | 123盘 |
-| :---: | :---: |
-| [![蓝奏云(密码：12)][lanzou]](https://www.lanzn.com/b01rkkbpa) | [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-2XaC) |
-</details>
-
-<details>
-  <summary> 𝑉𝑖𝑎 - 去白名单 </summary>
-
-- 蓝奏云有文件说明,123云盘不能添加说明
-  
-- 去除白名单限制
-
-- 和原版共存, 不影响原版(123云盘保留了原版包名,详看下文)
-
-- 修改图标(下图)
-
-![Via](http://shp.qpic.cn/collector/3042839226/38a21a30-33ed-477b-b136-1a99c5ac2800/0)
-
-* 𝑉𝑖𝑎去限制-共存
-
-| 蓝奏云<sub>`密码：12`</sub> | 123盘 |
-| :---: | :---: |
-[![蓝奏云(密码：12)][lanzou]](https://www.lanzn.com/b01rcpjv) | [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-XXaC) |
-* 𝑉𝑖𝑎去限制-原包名
-
-> 因修改包名 (与原版共存不得不修改) 而导致𝑉𝑖𝑎在桌面长按图标的功能会提示“未安装该应用”
-> 
-> 原版与该版本只可存在一个, 并且需要卸载原版才可以安装该版本
-> 
-> 使用 MT 管理器 V1 + V2 的签名, 后续可自己使用 MT 管理器修改原版安装包任意内容以达到不卸载更新
-> 
-> 他人使用 MT 管理器签名修改的版本也同样可不卸载安装
-
-| 123盘 |
-| :---: |
-| [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-0RaC) |
-
-  <img width="200%" src="https://shp.qpic.cn/collector/3042839226/41227680-93bb-4d63-af82-f9845c8bf099/0" /><br/>
-  <details>
-    <summary> 𝑉𝑖𝑎_图标包 </summary>
-  
-  > 因为我懒,就不去收集别人的图标包了,这里分享一个我自己的(他们说有种'杂乱的美')
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://shp.qpic.cn/collector/3042839226/af4a6776-f25d-4d8f-8114-6c5397bd303b/0">
-  <source media="(prefers-color-scheme: light)" srcset="http://shp.qpic.cn/collector/3042839226/5ca30d34-426b-48ea-8df6-be092d45829d/0">
-  <img alt="Via图标包" src="http://shp.qpic.cn/collector/3042839226/5ca30d34-426b-48ea-8df6-be092d45829d/0">
-</picture>
-
-| 蓝奏云<sub>`密码：12`</sub> | 123盘 |
-| :---: | :---: |
-[![蓝奏云(密码：12)][lanzou]](https://www.lanzn.com/b01rgnvgf) | [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-u1aC) |
-  </details>
-
-</details>
-<details>
-  <summary> 雨见/可拓·Xiu/嗅觉 - 去白名单 </summary>
-
-  - 注：并不共存,你可以：
-    - [[NP管理器(3.0.62)](https://www.lanzn.com/ieIMD20x054f)以下版本]进行APK共存(3.0.62以上有广告、收费。3.0.62记得关闭网络权限)
-    - [[MT管理器](https://www.123pan.com/s/o32qVv-ufkWA.html)(需要会员)]进行APK共存
-    - [[Apktool M](https://maximoff.su/apktool/)(免费)]的快速编辑进行修改包名
-
-| 蓝奏云<sub>`密码：12`</sub> | 123盘 |
-| :---: | :---: |
-[![蓝奏云(密码：12)][lanzou]](https://zhizhangyi.lanzout.com/b01s59nif) | [![123云盘(无密码)][123pan]](https://www.123pan.com/s/YHGHjv-9qJC.html) |
-
-</details>
 </details>
