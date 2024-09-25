@@ -2,71 +2,57 @@
     {
         "title": "秘塔 AI",
         "icon": "",
-        "url": "https://metaso.cn/?q=%s",
+        "url": ",
         "preload": 0,
         "netId": 1
     },
     {
         "title": "360 AI",
         "icon": "",
-        "url": "https://www.sou.com/?q=%s",
+        "url": ",
         "preload": 0,
         "netId": 2
     },
     {
         "title": "Phind AI",
         "icon": "",
-        "url": "https://phind-ai.com/zh/search?q=%s",
+        "url": ",
         "preload": 0,
         "netId": 3
     },
     {
         "title": "Perplexity AI",
         "icon": "",
-        "url": "https://www.perplexity.ai/?q=%s",
+        "url": ",
         "preload": 0,
         "netId": 4
     },
     {
         "title": "iask AI",
         "icon": "",
-        "url": "https://iask.ai/?q=%s",
+        "url": ",
         "preload": 0,
         "netId": 5
     },
     {
         "title": "ThinkAny AI",
         "icon": "",
-        "url": "https://thinkany.ai/zh/search?q=%s",
+        "url": ",
         "preload": 0,
         "netId": 6
     },
     {
         "title": "Andi AI",
         "icon": "",
-        "url": "https://andisearch.com/?q=%s",
+        "url": ",
         "preload": 0,
         "netId": 7
     },
     {
         "title": "iSou AI",
         "icon": "",
-        "url": "https://isou.chat/search?q=%s",
+        "url": ",
         "preload": 0,
         "netId": 8
-    },
-    {
-        "title": "天工 AI",
-        "icon": "",
-        "url": "https://www.tiangong.cn/result?q=%s",
-        "preload": 0,
-        "netId": 9
-    },
-    {
-        "title": "Farfalle AI",
-        "icon": "",
-        "url": "https://www.farfalle.dev/?q=%s",
-        "preload": 0,
-        "netId": 10
     }
 ]
