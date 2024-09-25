@@ -49,9 +49,9 @@
         "netId": 3
     },
     {
-        "title": "天工 AI",
+        "title": "Phind AI",
         "icon": "",
-        "url": "https://www.tiangong.cn/result?q=%s",
+        "url": "https://phind-ai.com/zh/search?q=%s",
         "preload": 0,
         "netId": 2
     }
