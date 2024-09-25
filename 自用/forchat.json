@@ -30,28 +30,28 @@
     {
         "title": "iask AI",
         "icon": "",
-        "url": ",
+        "url": "https://iask.ai/?q=%s",
         "preload": 0,
         "netId": 5
     },
     {
         "title": "ThinkAny AI",
         "icon": "",
-        "url": ",
+        "url": "https://thinkany.ai/zh/search?q=%s",
         "preload": 0,
         "netId": 6
     },
     {
         "title": "Andi AI",
         "icon": "",
-        "url": ",
+        "url": "https://andisearch.com/?q=%s",
         "preload": 0,
         "netId": 7
     },
     {
         "title": "iSou AI",
         "icon": "",
-        "url": ",
+        "url": "https://isou.chat/search?q=%s",
         "preload": 0,
         "netId": 8
     }
