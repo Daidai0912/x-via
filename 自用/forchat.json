@@ -2,28 +2,28 @@
     {
         "title": "秘塔 AI",
         "icon": "",
-        "url": ",
+        "url": "https://metaso.cn/?q=%s",
         "preload": 0,
         "netId": 1
     },
     {
         "title": "360 AI",
         "icon": "",
-        "url": ",
+        "url": "https://www.sou.com/?q=%s",
         "preload": 0,
         "netId": 2
     },
     {
         "title": "Phind AI",
         "icon": "",
-        "url": ",
+        "url": "https://phind-ai.com/zh/search?q=%s",
         "preload": 0,
         "netId": 3
     },
     {
         "title": "Perplexity AI",
         "icon": "",
-        "url": ",
+        "url": "https://www.perplexity.ai/?q=%s",
         "preload": 0,
         "netId": 4
     },
