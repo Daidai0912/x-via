@@ -28,38 +28,17 @@
         "netId": 6
     },
     {
-        "title": "360百科",
-        "icon": "",
-        "url": "https://m.baike.so.com/api/doc/search?word=%s&c=doc&a=search",
-        "preload": 0,
-        "netId": 5
-    },
-    {
         "title": "DuckDuckGo",
         "icon": "",
         "url": "https://duckduckgo.com/?q=%s",
         "preload": 0,
-        "netId": 4
-    },
-    {
-        "title": "360 AI",
-        "icon": "",
-        "url": "https://www.sou.com/?q=%s",
-        "preload": 0,
-        "netId": 3
+        "netId": 5
     },
     {
         "title": "秘塔 AI",
         "icon": "",
         "url": "https://metaso.cn/?q=%s",
         "preload": 0,
-        "netId": 2
-    },
-    {
-        "title": "Phind AI",
-        "icon": "",
-        "url": "https://phind-ai.com/zh/search?q=%s",
-        "preload": 0,
-        "netId": 1
+        "netId": 4
     }
 ]
