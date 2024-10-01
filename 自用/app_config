@@ -5,6 +5,12 @@
             "url": "https://www.123pan.com/s/YHGHjv-h0gC.html",
             "cover_url": "http://icon.yjllq.com/iconv2.php?host=http://www.123pan.com",
             "color": ""
+        },
+        {
+            "name": "油猴脚本",
+            "url": "https://greasyfork.org/zh-CN/scripts?set=589091",
+            "cover_url": "http://icon.yjllq.com/iconv2.php?host=http://greasyfork.org",
+            "color": ""
         }
     ],
     "curr_version": {
