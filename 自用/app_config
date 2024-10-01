@@ -1,0 +1,57 @@
+{
+    "nav": [
+        {
+            "name": "你猜",
+            "url": "https://www.123pan.com/s/YHGHjv-h0gC.html",
+            "cover_url": "http://icon.yjllq.com/iconv2.php?host=http://www.123pan.com",
+            "color": ""
+        }
+    ],
+    "curr_version": {
+        "version_code": 108,
+        "forced_update": 0,
+        "download_url": "https://file.zhenxiangpa.com/browser/top-browser-app.apk",
+        "update_content": "1、UI改版，设置-个性装扮，增加经典模式和极简模式；\n2、搜索历史增加单个删除功能；\n3、修复多个闪退bug。"
+    },
+    "search_url": [
+        {
+            "name": "必应",
+            "url": "https://cn.bing.com/search?q=",
+            "icon_url": "http://img.zhenxiangpa.com/browser/icon/bing.png"
+        },
+        {
+            "name": "百度",
+            "url": "https://m.baidu.com/s?from=1015011d&wd=",
+            "icon_url": "http://img.zhenxiangpa.com/browser/icon/baidu.png"
+        },
+        {
+            "name": "谷歌",
+            "url": "https://www.google.com/search?q=",
+            "icon_url": "http://img.zhenxiangpa.com/browser/icon/google.png"
+        },
+        {
+            "name": "搜狗",
+            "url": "https://m.sogou.com/web/searchList.jsp?bddn=9007825815159378&brnd=4044743866461141&keyword=",
+            "icon_url": "http://img.zhenxiangpa.com/browser/icon/sougou.png"
+        },
+        {
+            "name": "360 AI",
+            "url": "https://www.sou.com/s?q=",
+            "icon_url": "http://icon.yjllq.com/iconv2.php?host=https://www.sou.com"
+        },
+        {
+            "name": "秘塔AI搜索",
+            "url": "https://metaso.cn/?s=topp&referrer_s=topp&q=",
+            "icon_url": "http://img.zhenxiangpa.com/browser/icon/mita.jpg"
+        },
+        {
+            "name": "自定义",
+            "url": "",
+            "icon_url": "http://img.zhenxiangpa.com/browser/icon/website.png"
+        }
+    ],
+    "general_read_rule": "",
+    "bext_url": "",
+    "greasy_fork_url": "",
+    "search_engine_position": 0
+}
