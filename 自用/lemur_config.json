@@ -27,6 +27,7 @@
     }
   },
   "white_list": [
+    "qqqq.com"
   ],
   "ai": {
     "ai_enable_msg_count" : 50
