@@ -1,0 +1,34 @@
+{
+  "channels": {
+    "vivo": {
+      "newVersionCode": "261029",
+      "isPass": true,
+      "isIgnore": true
+    },
+    "oppo": {
+      "newVersionCode": "240051",
+      "isPass": true,
+      "isIgnore": true
+    },
+    "yingyongbao": {
+      "newVersionCode": "240051",
+      "isPass": true,
+      "isIgnore": true
+    },
+    "xiaomi": {
+      "newVersionCode": "255001",
+      "isPass": true,
+      "isIgnore": true
+    },
+    "huawei": {
+      "newVersionCode": "261013",
+      "isPass": false,
+      "isIgnore": false
+    }
+  },
+  "white_list": [
+  ],
+  "ai": {
+    "ai_enable_msg_count" : 50
+  }
+}
