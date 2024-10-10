@@ -29,9 +29,7 @@
   >
   >4. [搜索引擎](https://sharechain.qq.com/d12dde407b967a216288ac617b1ce357)
   >
-  >5. [仅供学习丨去白名单版本](https://sharechain.qq.com/b0289cc3828734d4578da4e1761b3c2f)
-  >
-  >6. [推荐视频播放器](https://sharechain.qq.com/91331525df07ff61d051cfafa4ef89ab)
+  >5. [推荐视频播放器](https://sharechain.qq.com/91331525df07ff61d051cfafa4ef89ab)
 </details>
 
 ## 广告规则订阅
