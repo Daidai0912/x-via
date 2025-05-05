@@ -313,13 +313,11 @@
 
   - 自动记住并填写过密码的蓝奏云链接(脚本菜单可查看或管理)
 
-  - 绕过下载APK提示"请先开通会员"
-
   - 自动下载文件
 
 ---
 
-2.[蓝奏云自动点击下载，直接下载 apk 文件，记住分享密码自动填写](https://greasyfork.org/zh-CN/scripts/489281)
+2.[蓝奏云自动点击下载，记住分享密码自动填写](https://greasyfork.org/zh-CN/scripts/489281)
 
   - 如名，与[蓝奏云重定向+记住密码](https://greasyfork.org/zh-CN/scripts/488847)择其一即可
 
